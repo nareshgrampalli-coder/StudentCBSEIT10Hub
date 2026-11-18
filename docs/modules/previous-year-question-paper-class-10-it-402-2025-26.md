@@ -49,6 +49,8 @@ Read the following instructions carefully.
 
 ## <u>Section A: Objective Type Questions</u>
 
+> **Answer key status:** Correct MCQ options are shown where they were provided in the source. Options marked **[Answer not provided in source]** are incomplete in the supplied question paper and must not be guessed.
+
 ### 1. Answer any 4 out of the given 6 questions on Employability Skills.
 
 **(i) Identify the imperative sentence:**
@@ -58,12 +60,16 @@ Read the following instructions carefully.
 - c) Are you feeling better?
 - d) You were amazing!
 
+**Answer:** [Answer not provided in source]
+
 **(ii) Breaking down big goals into smaller parts will make the goals _____.**
 
 - a) specific
 - b) measurable
 - c) achievable
 - d) realistic
+
+**Answer:** [Answer not provided in source]
 
 **(iii) Define the term "Time Management".**
 
@@ -78,6 +84,8 @@ Time Management means planning and organising your time properly so that you can
 - c) Name of a person
 - d) Letters, numbers and special characters
 
+**Answer:** [Answer not provided in source]
+
 **(v) A misconception about an entrepreneur is:**
 
 **Answer:**
@@ -91,6 +99,8 @@ Entrepreneurs are born, not made.
 - c) Quality Education
 - d) Reduced Inequalities
 
+**Answer:** [Answer not provided in source]
+
 ### 2. Answer any 5 out of the given 6 questions.
 
 **(i) Ramesh wants to apply a specific paragraph style to multiple non-contiguous sections of his document. Which feature of LibreOffice Writer should he use to avoid manually applying the style each time?**
@@ -100,12 +110,16 @@ Entrepreneurs are born, not made.
 - c) Drag and Drop
 - d) Load Styles
 
+**Answer:** [Answer not provided in source]
+
 **(ii) While working with images in LibreOffice Writer, the reference point for an image or drawing acts as a _______.**
 
 - a) Alignment
 - b) Grouping
 - c) Anchoring
 - d) Resizing
+
+**Answer:** [Answer not provided in source]
 
 **(iii) Which of the following style categories in LibreOffice Writer is used to define layout elements such as margins, headers and footers?**
 
@@ -114,12 +128,16 @@ Entrepreneurs are born, not made.
 - c) Frame Style
 - d) Table Style
 
+**Answer:** [Answer not provided in source]
+
 **(iv) LibreOffice Writer supports up to how many levels of headings?**
 
 - a) 9
 - b) 10
 - c) 11
 - d) 12
+
+**Answer:** [Answer not provided in source]
 
 **(v) Which of the following image tools is used to change an image to black and white, grayscale or a watermark?**
 
@@ -128,12 +146,16 @@ Entrepreneurs are born, not made.
 - c) Image Align
 - d) Image Size
 
+**Answer:** [Answer not provided in source]
+
 **(vi) A ______ is a preset layout that helps to create professional and/or formal documents easily.**
 
 - a) Template
 - b) Style
 - c) TOC
 - d) SOC
+
+**Answer:** [Answer not provided in source]
 
 ### 3. Answer any 5 out of the given 6 questions.
 
@@ -144,12 +166,16 @@ Entrepreneurs are born, not made.
 - c) What-if Scenarios
 - d) Filter
 
+**Answer:** [Answer not provided in source]
+
 **(ii) While reviewing a shared spreadsheet, Priya notices that some cells have been modified, but she is unsure who made the changes. Which feature should she use to identify the editor?**
 
 - a) Data Validation
 - b) Track Changes
 - c) Observe Changes
 - d) AutoFilter
+
+**Answer:** [Answer not provided in source]
 
 **(iii) Which of the following is the correct way to record a macro in LibreOffice Calc?**
 
@@ -158,12 +184,16 @@ Entrepreneurs are born, not made.
 - c) Insert → Macro → Record
 - d) View → Macros → Record
 
+**Answer:** [Answer not provided in source]
+
 **(iv) Which one of the following is the default function when a Consolidate dialog box opens in LibreOffice Calc?**
 
 - a) Average
 - b) Sum
 - c) Max
 - d) Var
+
+**Answer:** [Answer not provided in source]
 
 **(v) Which Calc feature allows multiple users to suggest edits while preserving the original data?**
 
@@ -172,12 +202,16 @@ Entrepreneurs are born, not made.
 - c) Track Changes
 - d) Insert Comments
 
+**Answer:** [Answer not provided in source]
+
 **(vi) In Calc, which type of hyperlink uses the complete location where the file to be linked is stored?**
 
 - a) Absolute hyperlink
 - b) Mixed hyperlink
 - c) Relative hyperlink
 - d) Static hyperlink
+
+**Answer:** [Answer not provided in source]
 
 ### 4. Answer any 5 out of the given 6 questions.
 
@@ -188,12 +222,16 @@ Entrepreneurs are born, not made.
 - c) a feature used to write queries
 - d) a chart to display statistical data
 
+**Answer:** [Answer not provided in source]
+
 **(ii) Which of the following is an example of a DBMS?**
 
 - a) Ubuntu
 - b) MySQL
 - c) MS Word
 - d) Canva
+
+**Answer:** [Answer not provided in source]
 
 **(iii) While forming a relationship between two tables in LibreOffice Base, the common field in both tables must have the ______.**
 
@@ -224,12 +262,16 @@ The common field in both tables must have the same data type. For example, if on
 - c) To create tables
 - d) To design the layout of forms and reports
 
+**Answer:** [Answer not provided in source]
+
 **(vi) In the ______ Data Model, data is stored in linked records organised into a tree-like structure.**
 
 - a) Network
 - b) Relational
 - c) Fictional
 - d) Hierarchical
+
+**Answer:** [Answer not provided in source]
 
 ### 5. Answer any 5 out of the given 6 questions.
 
@@ -240,12 +282,16 @@ The common field in both tables must have the same data type. For example, if on
 - c) Good lighting and ventilation
 - d) Using updated antivirus software
 
+**Answer:** [Answer not provided in source]
+
 **(ii) Which type of fire extinguisher should not be used to extinguish an electrical fire?**
 
 - a) Carbon dioxide
 - b) Mechanical foam
 - c) Dry chemical powder
 - d) ABC dry powder
+
+**Answer:** [Answer not provided in source]
 
 **(iii) Which of the following is the correct typing posture?**
 
@@ -254,12 +300,16 @@ The common field in both tables must have the same data type. For example, if on
 - c) Keeping the wrist floating in the air
 - d) Leaning back while typing
 
+**Answer:** [Answer not provided in source]
+
 **(iv) A company mandates regular breaks, provides adjustable desks and encourages hydration for its employees. What is the primary objective of these policies?**
 
 - a) To reduce electricity bills
 - b) To improve employees' attendance
 - c) To promote employees' health and safety
 - d) To increase Internet speed
+
+**Answer:** [Answer not provided in source]
 
 **(v) Which types of hazards are most common in the manufacturing and pharmaceutical industries?**
 
@@ -268,12 +318,16 @@ The common field in both tables must have the same data type. For example, if on
 - c) Noise hazards
 - d) Magnetic field hazards
 
+**Answer:** [Answer not provided in source]
+
 **(vi) Materials are classified by risk of catching fire. Which of the following falls in the category of Class B materials?**
 
 - a) Wood
 - b) Magnesium
 - c) Grease
 - d) Electrical equipment
+
+**Answer:** [Answer not provided in source]
 
 ## <u>Section B: Subjective Type Questions</u>
 

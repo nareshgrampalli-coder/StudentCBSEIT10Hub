@@ -300,7 +300,7 @@ Read the following instructions carefully.
 - c) ToIT
 - d) SoIT
 
-**Answer:** [Answer not provided in source]
+**Answer:** (b) **DoIT**
 
 **(iv) RSI stands for:**
 

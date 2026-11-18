@@ -12,22 +12,22 @@ This study book provides chapter-wise solutions for **Part A: Employability Skil
 
 ### Part A: Employability Skills
 
-<div class="module-grid">
-  <a class="module-card" href="modules/communication-skills-class-10-qa.md"><span>Unit 1</span><strong>Communication Skills</strong></a>
-  <a class="module-card" href="modules/self-management-skills-class-10-qa.md"><span>Unit 2</span><strong>Self-Management Skills</strong></a>
-  <a class="module-card" href="modules/basic-ict-skills-class-10-qa.md"><span>Unit 3</span><strong>Basic ICT Skills</strong></a>
-  <a class="module-card" href="modules/entrepreneurial-skills-class-10-qa.md"><span>Unit 4</span><strong>Entrepreneurial Skills</strong></a>
-  <a class="module-card" href="modules/green-skills-class-10-qa.md"><span>Unit 5</span><strong>Green Skills</strong></a>
-</div>
+| Unit | Chapter | Study Material |
+|:---:|---|---|
+| 1 | Communication Skills | [Open chapter](modules/communication-skills-class-10-qa.md) |
+| 2 | Self-Management Skills | [Open chapter](modules/self-management-skills-class-10-qa.md) |
+| 3 | Basic ICT Skills | [Open chapter](modules/basic-ict-skills-class-10-qa.md) |
+| 4 | Entrepreneurial Skills | [Open chapter](modules/entrepreneurial-skills-class-10-qa.md) |
+| 5 | Green Skills | [Open chapter](modules/green-skills-class-10-qa.md) |
 
 ### Part B: Subject Specific Skills
 
-<div class="module-grid">
-  <a class="module-card" href="modules/digital-documentation-class-10-qa.md"><span>Unit 1</span><strong>Digital Documentation</strong></a>
-  <a class="module-card" href="modules/electronic-spreadsheet-class-10-qa.md"><span>Unit 2</span><strong>Electronic Spreadsheet</strong></a>
-  <a class="module-card" href="modules/database-management-system-class-10.md"><span>Unit 3</span><strong>Database Management System</strong></a>
-  <a class="module-card" href="modules/maintain-healthy-safe-secure-working-environment-class-10.md"><span>Unit 4</span><strong>Healthy, Safe and Secure Work Environment</strong></a>
-</div>
+| Unit | Chapter | Study Material |
+|:---:|---|---|
+| 1 | Digital Documentation | [Open chapter](modules/digital-documentation-class-10-qa.md) |
+| 2 | Electronic Spreadsheet | [Open chapter](modules/electronic-spreadsheet-class-10-qa.md) |
+| 3 | Database Management System | [Open chapter](modules/database-management-system-class-10.md) |
+| 4 | Maintain a Healthy, Safe and Secure Working Environment | [Open chapter](modules/maintain-healthy-safe-secure-working-environment-class-10.md) |
 
 ## How to Study
 

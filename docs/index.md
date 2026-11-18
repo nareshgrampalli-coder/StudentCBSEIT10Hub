@@ -14,20 +14,20 @@ This study book provides chapter-wise solutions for **Part A: Employability Skil
 
 | Unit | Chapter | Study Material |
 |:---:|---|---|
-| 1 | Communication Skills | [Open chapter](modules/communication-skills-class-10-qa.md) |
-| 2 | Self-Management Skills | [Open chapter](modules/self-management-skills-class-10-qa.md) |
-| 3 | Basic ICT Skills | [Open chapter](modules/basic-ict-skills-class-10-qa.md) |
-| 4 | Entrepreneurial Skills | [Open chapter](modules/entrepreneurial-skills-class-10-qa.md) |
-| 5 | Green Skills | [Open chapter](modules/green-skills-class-10-qa.md) |
+| 1 | Communication Skills | [Open chapter](modules/communication-skills-class-10-qa.html) |
+| 2 | Self-Management Skills | [Open chapter](modules/self-management-skills-class-10-qa.html) |
+| 3 | Basic ICT Skills | [Open chapter](modules/basic-ict-skills-class-10-qa.html) |
+| 4 | Entrepreneurial Skills | [Open chapter](modules/entrepreneurial-skills-class-10-qa.html) |
+| 5 | Green Skills | [Open chapter](modules/green-skills-class-10-qa.html) |
 
 ### Part B: Subject Specific Skills
 
 | Unit | Chapter | Study Material |
 |:---:|---|---|
-| 1 | Digital Documentation | [Open chapter](modules/digital-documentation-class-10-qa.md) |
-| 2 | Electronic Spreadsheet | [Open chapter](modules/electronic-spreadsheet-class-10-qa.md) |
-| 3 | Database Management System | [Open chapter](modules/database-management-system-class-10.md) |
-| 4 | Maintain a Healthy, Safe and Secure Working Environment | [Open chapter](modules/maintain-healthy-safe-secure-working-environment-class-10.md) |
+| 1 | Digital Documentation | [Open chapter](modules/digital-documentation-class-10-qa.html) |
+| 2 | Electronic Spreadsheet | [Open chapter](modules/electronic-spreadsheet-class-10-qa.html) |
+| 3 | Database Management System | [Open chapter](modules/database-management-system-class-10.html) |
+| 4 | Maintain a Healthy, Safe and Secure Working Environment | [Open chapter](modules/maintain-healthy-safe-secure-working-environment-class-10.html) |
 
 ## How to Study
 

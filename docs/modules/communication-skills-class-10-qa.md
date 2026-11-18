@@ -1,3 +1,9 @@
+---
+layout: default
+title: Communication Skills Class 10
+permalink: /modules/communication-skills-class-10-qa.html
+---
+
 # **Communication Skills Class 10: Questions and Answers**
 
 ## <u>Quick Index</u>

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Database Management System Class 10
+permalink: /modules/database-management-system-class-10.html
+---
+
 # **Database Management System Class 10 Questions and Answers**
 
 ## <u>Quick Index</u>

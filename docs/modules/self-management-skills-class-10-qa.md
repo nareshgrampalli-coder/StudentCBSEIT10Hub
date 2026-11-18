@@ -1,3 +1,9 @@
+---
+layout: default
+title: Self-Management Skills Class 10
+permalink: /modules/self-management-skills-class-10-qa.html
+---
+
 # **Self Management Skills – Class 10: Questions and Answers**
 
 ## <u>Quick Index</u>

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Green Skills Class 10
+permalink: /modules/green-skills-class-10-qa.html
+---
+
 # **Green Skills – Class 10: Questions and Answers**
 
 ## <u>Quick Index</u>

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Basic ICT Skills Class 10
+permalink: /modules/basic-ict-skills-class-10-qa.html
+---
+
 # **Basic ICT Skills – Class 10: Questions and Answers**
 
 ## <u>Quick Index</u>

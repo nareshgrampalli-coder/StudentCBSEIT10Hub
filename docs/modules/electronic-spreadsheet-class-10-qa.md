@@ -1,3 +1,9 @@
+---
+layout: default
+title: Electronic Spreadsheet Class 10
+permalink: /modules/electronic-spreadsheet-class-10-qa.html
+---
+
 # **Electronic Spreadsheet – Class 10: Questions and Answers**
 
 ## <u>Quick Index</u>

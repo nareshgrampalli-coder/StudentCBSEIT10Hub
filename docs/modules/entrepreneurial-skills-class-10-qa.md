@@ -1,3 +1,9 @@
+---
+layout: default
+title: Entrepreneurial Skills Class 10
+permalink: /modules/entrepreneurial-skills-class-10-qa.html
+---
+
 # **Entrepreneurial Skills – Class 10: Questions and Answers**
 
 ## <u>Quick Index</u>

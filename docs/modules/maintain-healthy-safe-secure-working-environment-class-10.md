@@ -1,3 +1,9 @@
+---
+layout: default
+title: Healthy, Safe and Secure Working Environment Class 10
+permalink: /modules/maintain-healthy-safe-secure-working-environment-class-10.html
+---
+
 # **Maintain a Healthy, Safe and Secure Working Environment — Class 10**
 
 ## <u>Quick Index</u>

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Digital Documentation Class 10
+permalink: /modules/digital-documentation-class-10-qa.html
+---
+
 # **Digital Documentation – Class 10: Questions and Answers**
 
 ## <u>Quick Index</u>

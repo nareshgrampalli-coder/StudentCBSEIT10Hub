@@ -47,7 +47,11 @@ A database can be designed in different ways depending on what is being stored. 
 
 Hierarchical Data Model – In a hierarchical data model, the data is organized into a tree-like structure. The data is stored in the form of records. All these records are linked to each other at various levels.
 
+![Hierarchical Data Model](assets/database-management-system/hierarchical-data-model.jpg)
+
 Network Data Model – In the Network Data Model, multiple records are linked to the same master file. It is also considered an inverted tree where the master is present at the bottom of the tree and the branches contain information linked to the master.
+
+![Network Data Model](assets/database-management-system/network-data-model.jpg)
 
 Relational Data Model – This data model is based on the principle of setting relationships between two or more tables of the same database. It is the most commonly used database model.
 
@@ -56,6 +60,8 @@ Relational Data Model – This data model is based on the principle of setting r
 **Answer:**
 
 Entity is a real-world object about which information is to be stored in a database. Each entity is a collection of attributes. For example, if you want to store student information in a table, then the table heading is attributes, and the student’s single record is an entity.
+
+![Entity in a Database](assets/database-management-system/entity-in-database.jpg)
 
 ### 7. What is a table in a database?
 
@@ -266,6 +272,8 @@ A query can be created in three ways.
 
 **Answer:**
 
+![Database table used for questions 26(a) to 26(d)](assets/database-management-system/dbms-table.jpg)
+
 #### (a) Name the fields in the given table.
 
 **Answer:**
@@ -295,6 +303,13 @@ A foreign key is a key of another table that refers to the primary key from the 
 ### 27. Write the SQL commands to answer the queries based on Fabric table
 
 **Answer:**
+
+| FabricID | Fname | Type | Disc |
+| --- | --- | --- | --- |
+| F001 | Shirt | Woolen | 10 |
+| F002 | Suit | Cotton | 20 |
+| F003 | Tunic | Cotton | 10 |
+| F004 | Jeans | Denim | 5 |
 
 #### a. Write a query for insert the following record (“F005”, “Kurta”, “Woollen”,5)
 

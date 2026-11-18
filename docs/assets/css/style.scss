@@ -1,0 +1,43 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.module-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin: 1rem 0 2rem;
+}
+
+.module-card {
+  display: flex;
+  flex-direction: column;
+  min-height: 110px;
+  padding: 1.15rem;
+  border: 1px solid #d8e2ed;
+  border-radius: 10px;
+  background: #f8fbff;
+  color: #15547a;
+  text-decoration: none;
+  box-shadow: 0 3px 10px rgba(20, 74, 115, 0.08);
+}
+
+.module-card:hover {
+  border-color: #159957;
+  background: #fff;
+  text-decoration: none;
+  transform: translateY(-2px);
+}
+
+.module-card span {
+  margin-bottom: 0.5rem;
+  color: #607d8b;
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.module-card strong {
+  line-height: 1.35;
+}

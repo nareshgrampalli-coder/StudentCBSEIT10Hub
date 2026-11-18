@@ -26,6 +26,14 @@ bundle exec jekyll serve --source docs
 
 Open http://localhost:4000/ in a browser.
 
+For example, the exact Jekyll path names are:
+
+- Source folder: `docs`
+- Destination folder: `_site`
+- Homepage file: `docs/index.md`
+- Module folder: `docs/modules`
+- Assets folder: `docs/assets`
+
 To build the static site without starting the server:
 
 ```bash

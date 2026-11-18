@@ -1,6 +1,16 @@
-# Communication Skills Class 10: Questions and Answers
+# **Communication Skills Class 10: Questions and Answers**
 
-## Session 1: Methods of  Communication
+## <u>Quick Index</u>
+
+- [Session 1: Methods of Communication](#session-1-methods-of-communication)
+- [Session 2: Verbal Communication](#session-2-verbal-communication)
+- [Session 3: Non-verbal Communication](#session-3-non-verbal-communication)
+- [Session 4: Communication Cycle and importance of Feedback](#session-4-communication-cycle-and-importance-of-feedback)
+- [Session 5: Barriers to effective communication](#session-5-barriers-to-effective-communication)
+- [Session 6: Writing Skills – Part of Speech](#session-6-writing-skills--part-of-speech)
+- [Session 7: Writing Skills – Sentences](#session-7-writing-skills--sentences)
+
+## <u>Session 1: Methods of  Communication</u>
 
 ### 1. What is Communication?
 
@@ -13,33 +23,35 @@ The word ‘Communication’ comes from the Latin word Communicare, which means 
 **Answer:**
 
 The various elements of a communication cycle are –
-Sender: the person beginning the communication.
+- **Sender:** the person beginning the communication.
 
-Message: the information that the sender wants to convey.
+- **Message:** the information that the sender wants to convey.
 
-Channel: the means by which the information is sent.
+- **Channel:** the means by which the information is sent.
 
-Receiver: the person to whom the message is sent.
+- **Receiver:** the person to whom the message is sent.
 
-Feedback: the receiver’s acknowledgement and response to the message.
+- **Feedback:** the receiver’s acknowledgement and response to the message.
 
 ### 3. What is 7 C’s effective communication?
 
 **Answer:**
 
-There are 7 C’s effective communication which are applicable for both written as well as oral communication. These are as follows –Clear – Always say clearly, what you want to say.
+There are 7 C’s of effective communication. They apply to both written and oral communication:
 
-Concise – Always use simple language and say only what is required.
+- **Clear:** Always say clearly what you want to say.
 
-Concrete – Always use proper words and phrases in the sentences.
+- **Concise:** Always use simple language and say only what is required.
 
-Correct – Always use correct spelling and grammar in the sentences.
+- **Concrete:** Always use proper words and phrases in the sentences.
 
-Coherent – Your word should be related to the main topic and your word should make sense.
+- **Correct:** Always use correct spelling and grammar in the sentences.
 
-Complete – Your message should be complete and have all the needed information.
+- **Coherent:** Your word should be related to the main topic and your word should make sense.
 
-Courteous – Be honest, respectful and friendly with others.
+- **Complete:** Your message should be complete and have all the needed information.
+
+- **Courteous:** Be honest, respectful and friendly with others.
 
 ### 4. What are the key components of effective communication?
 
@@ -51,11 +63,11 @@ Effective communication involves clear expression, active listening, non-verbal 
 
 **Answer:**
 
-The various methods of communication are –Face-to-face informal communication – There is nothing better than face-to-face communication. It helps the message to be understood clearly and quickly.e-mail – e-mail can be used to communicate quickly with one or many individuals in various locations. It offers flexibility, convenience and low-cost.
+- **The various methods of communication are:** Face-to-face informal communication – There is nothing better than face-to-face communication. It helps the message to be understood clearly and quickly.e-mail – e-mail can be used to communicate quickly with one or many individuals in various locations. It offers flexibility, convenience and low-cost.
 
-Notice/Posters – It is effective when the same message has to go out to a large group of people. Generally used for where email communication may not be effective.
+- **Notice/Posters:** It is effective when the same message has to go out to a large group of people. Generally used for where email communication may not be effective.
 
-Business Meetings – Communication during business meetings at an organisation are generally addressed to a group of people. It can be related to business, management and organisational decisions.
+- **Business Meetings:** Communication during business meetings at an organisation are generally addressed to a group of people. It can be related to business, management and organisational decisions.
 
 ### 6. Why are communication skills important in our daily lives?
 
@@ -67,24 +79,27 @@ Communication skills are essential for effective interaction with others. They h
 
 **Answer:**
 
-Learning objectives of Effective communication are:Sending, receiving and understanding the message or informationDevelopment of Interposal SkillsTo express effectively with maximum efficiency
+- **Learning objectives of effective communication:**
+  1. Sending, receiving, and understanding the message or information.
+  2. Development of interpersonal skills.
+  3. Expressing effectively with maximum efficiency.
 
 ### 8. Communication skills are very important for any business. Explain any two elements of a communication process.
 
 **Answer:**
 
 The various elements of a communication cycle are –
-Sender: the person beginning the communication.
+- **Sender:** the person beginning the communication.
 
-Message: the information that the sender wants to convey.
+- **Message:** the information that the sender wants to convey.
 
-Channel: the means by which the information is sent.
+- **Channel:** the means by which the information is sent.
 
-Receiver: the person to whom the message is sent.
+- **Receiver:** the person to whom the message is sent.
 
-Feedback: the receiver’s acknowledgement and response to the message.
+- **Feedback:** the receiver’s acknowledgement and response to the message.
 
-## Session 2: Verbal Communication
+## <u>Session 2: Verbal Communication</u>
 
 ### 9. What is verbal communication and its type?
 
@@ -92,26 +107,26 @@ Feedback: the receiver’s acknowledgement and response to the message.
 
 Sounds, words, language, and speech are all examples of verbal communication. Speaking is one of the most effective and often used in verbal communication methods.
 
-Interpersonal Communication – This type of communication is a one – on – one communication that takes place between two people. It can be formal or informal.
+- **Interpersonal Communication:** This type of communication is a one – on – one communication that takes place between two people. It can be formal or informal.
 
-Written Communication – This method of  communication entails the use of written words. Letters, circulars, reports, manuals, SMS, social media chats, and so on are all examples. It could be a group of two or more persons.
+- **Written Communication:** This method of  communication entails the use of written words. Letters, circulars, reports, manuals, SMS, social media chats, and so on are all examples. It could be a group of two or more persons.
 
-Small Group  Communication – When there are more than two people participating, this form of communication occurs. Each participant has the opportunity to interact and speak with the others.
+- **Small Group  Communication:** When there are more than two people participating, this form of communication occurs. Each participant has the opportunity to interact and speak with the others.
 
-Public Communication – The communication takes place when one individual address a large group of audience.
+- **Public Communication:** The communication takes place when one individual address a large group of audience.
 
 ### 10. What are the advantages and disadvantages of verbal communication?
 
 **Answer:**
 
-Advantage of verbal communication are –Advantages of Verbal communication
-Time Saving – We can express our thoughts easily and quickly and it is an easier form of communication.
+- **Advantage of verbal communication are:** Advantages of Verbal communication
+- **Time Saving:** We can express our thoughts easily and quickly and it is an easier form of communication.
 
-Quick Feedback – We can get a quick response from the listener.
+- **Quick Feedback:** We can get a quick response from the listener.
 
 Disadvantages of verbal communication
-Cultural Difference – The cultural difference is the main disadvantage of verbal communication
-Language barriers – Difficult to share thoughts or ideas in different languages.
+- **Cultural Difference:** The cultural difference is the main disadvantage of verbal communication
+- **Language barriers:** Difficult to share thoughts or ideas in different languages.
 
 ### 11. Write down the different types of verbal communication. Give an example for each type.
 
@@ -119,78 +134,87 @@ Language barriers – Difficult to share thoughts or ideas in different language
 
 Verbal communication can be divided into two categories.
 
-Oral or Spoken communication – Oral Communication involves Face-to-face communication, Teaching in classroom or talking on the phone is an example of oral or spoken communication.
+- **Oral or Spoken communication:** Oral Communication involves Face-to-face communication, Teaching in classroom or talking on the phone is an example of oral or spoken communication.
 
-Written Communication – Written Communication involves written or typed words. Banners, Articles, Notes, writing letters, email, and Short Messaging Services are examples of written communication.
+- **Written Communication:** Written Communication involves written or typed words. Banners, Articles, Notes, writing letters, email, and Short Messaging Services are examples of written communication.
 
 ### 12. What is public speaking?
 
 **Answer:**
 
-Speaking face – to – face to a live audience or in front of a large group is known as public speaking, you can use the 3Ps method to get over your fears and become a confident speaker.
+- **Speaking face:** to – face to a live audience or in front of a large group is known as public speaking, you can use the 3Ps method to get over your fears and become a confident speaker.
 
-The 3Ps method is –a. Prepareb. Practicec. Perform
+The **3Ps method** is:
+
+1. **Prepare**
+2. **Practice**
+3. **Perform**
 
 ### 13. Explain non-verbal and visual communication and their importance.
 
 **Answer:**
 
-Non-Verbal Communication: It involves conveying messages without the use of words. Examples include body language, facial expressions, gestures, and eye contact.
+- **Non-Verbal Communication:** It involves conveying messages without the use of words. Examples include body language, facial expressions, gestures, and eye contact.
 
-Visual Communication: It includes the use of visual elements such as charts, graphs, images, and videos to convey information.
+- **Visual Communication:** It includes the use of visual elements such as charts, graphs, images, and videos to convey information.
 
 ### 14. Identify different types of non-verbal communication.
 
 **Answer:**
 
 Different types of non-verbal communication are –
-Facial Expression – Our expressions can show different feelings, such as Happiness, Sadness, Anger, Surprise, Fear, etc.
+- **Facial Expression:** Our expressions can show different feelings, such as Happiness, Sadness, Anger, Surprise, Fear, etc.
 
-Posture – Postures show our confidence and feelings. For example, a straight body posture shows confidence while a slumped posture is a sign of weakness.
+- **Posture:** Postures show our confidence and feelings. For example, a straight body posture shows confidence while a slumped posture is a sign of weakness.
 
-Gestures or Body Language – Gestures include body movements that express an idea or meaning. For example, raising a hand in class to ask a question and biting nails when nervous.
+- **Gestures or Body Language:** Gestures include body movements that express an idea or meaning. For example, raising a hand in class to ask a question and biting nails when nervous.
 
-Touch – We communicate a great deal through touch. For example, a firm handshake to display confidence and pat on the back to encourage someone.
+- **Touch:** We communicate a great deal through touch. For example, a firm handshake to display confidence and pat on the back to encourage someone.
 
-Space – Space is the physical distance between two people. The space between two persons while communicating, generally depends on the intimacy or closeness between them.
+- **Space:** Space is the physical distance between two people. The space between two persons while communicating, generally depends on the intimacy or closeness between them.
 
-Eye Contact – The way we look at someone can communicate a lot. Eye contact shows that we are paying attention to the person as opposed to looking away, which can make the other person feel ignored.
+- **Eye Contact:** The way we look at someone can communicate a lot. Eye contact shows that we are paying attention to the person as opposed to looking away, which can make the other person feel ignored.
 
-Paralanguage – How we speak affects our communication and includes the tone, speed and volume of our voice. For example, talking fast may show happiness, excitement or nervousness while speaking slow may show seriousness or sadness.
+- **Paralanguage:** How we speak affects our communication and includes the tone, speed and volume of our voice. For example, talking fast may show happiness, excitement or nervousness while speaking slow may show seriousness or sadness.
 
 ### 15. What are the common mistakes in non-verbal communication.
 
 **Answer:**
 
-Avoiding common mistakes in non-verbal communication is crucial for conveying messages accurately and building effective interpersonal relationships. Here are some tips to avoid these mistakes:Lack of Eye Contact
-Inappropriate Facial Expressions
-Poor Posture
-Ignoring Cultural Differences
-Ignoring Tone of Voice
+Avoiding common mistakes in non-verbal communication is crucial for conveying messages accurately and building effective interpersonal relationships:
 
-## Session 3: Non-verbal Communication
+- **Lack of eye contact**
+- **Inappropriate facial expressions**
+- **Poor posture**
+- **Ignoring cultural differences**
+- **Ignoring tone of voice**
+
+## <u>Session 3: Non-verbal Communication</u>
 
 ### 16. What is non-verbal communication?
 
 **Answer:**
 
-Without using word if you are sending some information to others is known as non- verbal  communication, some of the non – verbal communication is –Eye contact
-Gestures
-Expressions
-Posture
-Space
-Para Language
-Touch
+Without using words to send information to others is known as **non-verbal communication**.
+
+- **Eye contact**
+- **Gestures**
+- **Expressions**
+- **Posture**
+- **Space**
+- **Paralanguage**
+- **Touch**
 
 ### 17. What is the importance of Non-verbal communication?
 
 **Answer:**
 
-In our day-to-day communication
-55% communication is done using body movements, face, arms, etc.
-38% communication is done using voice, tone, pauses, etc.
-only 7% communication is done using words.
-around 93% of our communication is non-verbal.
+In our day-to-day communication:
+
+- **55%** is communicated through body movements, face, arms, etc.
+- **38%** is communicated through voice, tone, pauses, etc.
+- **Only 7%** is communicated through words.
+- Thus, approximately **93%** of communication is non-verbal.
 
 ### 18. What is the purpose of non – verbal communication?
 
@@ -208,19 +232,21 @@ We can utilize our hand movements to exchange communications if verbal messages 
 
 **Answer:**
 
-Type of non – verbal communication are –Facial expressions – The movement and changes of the face are the facial expressions. Many times, facial expressions show the feelings of a person. For example, expressing your thoughts using a smile, when we are happy, or when we are sad.
+Types of non-verbal communication:
 
-Posture – Postures means body of the positions, postures show how confident you are and your emotional feelings. For example, straight body posture means confidence.
+- **Facial expressions:** Movements and changes of the face show a person’s feelings. For example, smiling when happy or frowning when sad.
 
-Gestures or Body language – Gestures means with the help of hands or head if you are sharing any idea or meaning. for example, pointing, waving and using our hands when speaking.
+- **Posture:** Postures means body of the positions, postures show how confident you are and your emotional feelings. For example, straight body posture means confidence.
 
-Touch – Some time we communicate using touch we also share messages to others, for example hand shaking and patting on the back.
+- **Gestures or Body language:** Gestures means with the help of hands or head if you are sharing any idea or meaning. for example, pointing, waving and using our hands when speaking.
 
-Space – When the two people are communicating and you will find some space between these two people depending on closeness or intimacy between them.
+- **Touch:** Some time we communicate using touch we also share messages to others, for example hand shaking and patting on the back.
 
-Eye contact – Maintaining eye contact is very important when you are talking about interest, whereas, looking at any other side can make the other person feel ignored.
+- **Space:** When the two people are communicating and you will find some space between these two people depending on closeness or intimacy between them.
 
-Paralanguage – Tone of our voice, speed and volume that makes a difference in the meaning is a paralanguage.
+- **Eye contact:** Maintaining eye contact is very important when you are talking about interest, whereas, looking at any other side can make the other person feel ignored.
+
+- **Paralanguage:** Tone of our voice, speed and volume that makes a difference in the meaning is a paralanguage.
 
 ### 20. What is Visual  Communication?
 
@@ -228,9 +254,12 @@ Paralanguage – Tone of our voice, speed and volume that makes a difference in 
 
 Visual communication is the process of exchanging messages mainly through images or photographs.
 
-Example of visual communication are –Under construction signDanger warningSign of Under CCTV surveillance
+- Examples include:
+  - **Under-construction sign**
+  - **Danger warning**
+  - **Under-CCTV-surveillance sign**
 
-## Session 4: Communication Cycle and importance of Feedback
+## <u>Session 4: Communication Cycle and importance of Feedback</u>
 
 ### 21. What is feedback in communication skills?
 
@@ -238,44 +267,46 @@ Example of visual communication are –Under construction signDanger warningSign
 
 The communication cycle is incomplete without feedback. It is essential for the effective communication that the sender receives confirmation from the receiver that the message was received. The receiver provides feedback on the received message while the transmitter sends information.
 
-Feedback can be positive or negative. Good feedback is alwaysSpecific
-Helpful
-Kind
+Feedback can be positive or negative. Good feedback is always:
+
+- **Specific**
+- **Helpful**
+- **Kind**
 
 ### 22. How many types of Feedback in communication skills?
 
 **Answer:**
 
-There are basically three types of feedback.
+There are three basic types of feedback:
 
-Positive Feedback
-Negative Feedback
-No Feedback
+1. **Positive feedback**
+2. **Negative feedback**
+3. **No feedback**
 
 ### 23. What is the good feedback in communication skills?
 
 **Answer:**
 
 A good feedback is one that is –
-Specific: General comment should be avoided. To clarify your statement, try to provide examples. Rather than giving advice let the receiver decide what to do with your feedback.
+- **Specific:** General comment should be avoided. To clarify your statement, try to provide examples. Rather than giving advice let the receiver decide what to do with your feedback.
 
-Timely: Always respond on time, because if input is delayed for too long, it loses its impact.
+- **Timely:** Always respond on time, because if input is delayed for too long, it loses its impact.
 
-Polite: While sharing feedback is necessary, the recipient should not be insulted by the input’s language.
+- **Polite:** While sharing feedback is necessary, the recipient should not be insulted by the input’s language.
 
-Offering continuing support: Feedback should be shared on a regular basis. Let recipients know you’re available for help once you’ve given them feedback.
+- **Offering continuing support:** Feedback should be shared on a regular basis. Let recipients know you’re available for help once you’ve given them feedback.
 
 ### 24. Importance of Feedback?
 
 **Answer:**
 
-Most important factors of feedback is –It validates effective listening: It verifies effective listening by ensuring that the person providing feedback is understood and that their feedback is useful.
+- **Most important factors of feedback is:** It validates effective listening: It verifies effective listening by ensuring that the person providing feedback is understood and that their feedback is useful.
 
-It motivates: People can be motivated by positive feedback to improve their working relationships and continue doing the good job that has been recognized.
+- **It motivates:** People can be motivated by positive feedback to improve their working relationships and continue doing the good job that has been recognized.
 
-It boosts learning: It’s critical to get feedback in order to stay on track with your goals, improve your planning, and generate better products and services.
+- **It boosts learning:** It’s critical to get feedback in order to stay on track with your goals, improve your planning, and generate better products and services.
 
-It improves performance: Feedback can assist in making better judgments in order to improve and boost performance.
+- **It improves performance:** Feedback can assist in making better judgments in order to improve and boost performance.
 
 ### 25. Identify how and when to give feedback.
 
@@ -288,15 +319,15 @@ Feedback is an important part of the  communication cycle. For effective communi
 **Answer:**
 
 Importance of feedback are –
-Validates Effective Listening: Shows you’re paying attention and understanding.
+- **Validates Effective Listening:** Shows you’re paying attention and understanding.
 
-Motivates People: Makes people feel good and encourages them.
+- **Motivates People:** Makes people feel good and encourages them.
 
-Boosts Learning: Helps us learn and improve.
+- **Boosts Learning:** Helps us learn and improve.
 
-Improves Performance and Decision Making: Points out what’s done well and where to improve.
+- **Improves Performance and Decision Making:** Points out what’s done well and where to improve.
 
-## Session 5: Barriers to effective communication
+## <u>Session 5: Barriers to effective communication</u>
 
 ### 27. What is effective communication?
 
@@ -311,23 +342,30 @@ Clear, Concise, Concrete, Correct, Coherent, Complete, and Courteous are the acr
 **Answer:**
 
 Barriers of the Effective Communication are –
-Physical Barriers – The environmental and natural conditions that operate as a barrier in communication when conveying messages from sender to receiver are referred to as physical barriers.
+- **Physical Barriers:** The environmental and natural conditions that operate as a barrier in communication when conveying messages from sender to receiver are referred to as physical barriers.
 
-Linguistic Barriers – A language barrier to communication is the inability to communicate using a language. The most common communication barriers are language barriers, which lead to misunderstandings and misinterpretations between people.
+- **Linguistic Barriers:** A language barrier to communication is the inability to communicate using a language. The most common communication barriers are language barriers, which lead to misunderstandings and misinterpretations between people.
 
-Interpersonal Barriers – When a sender’s message is received differently than intended, it creates barriers to interpersonal contact. It’s also tough to communicate with someone who refuses to converse or express their emotions or opinions.
+- **Interpersonal Barriers:** When a sender’s message is received differently than intended, it creates barriers to interpersonal contact. It’s also tough to communicate with someone who refuses to converse or express their emotions or opinions.
 
-Organizational Barriers – Formal hierarchical structures are used to create organizations that adhere to performance standards, rules &amp; regulations, processes, policies, and behavioral norms, among other things.
+- **Organizational Barriers:** Formal hierarchical structures are used to create organizations that adhere to performance standards, rules &amp; regulations, processes, policies, and behavioral norms, among other things.
 
-Cultural Barriers – When people from different cultures are unable to understand each other’s languages, it causes problems and inconveniences.
+- **Cultural Barriers:** When people from different cultures are unable to understand each other’s languages, it causes problems and inconveniences.
 
 ### 29. What are the different ways to overcome from communication barriers?
 
 **Answer:**
 
-Use simple languageTry to communicate in person as much as possibleDo not form assumptions on culture, religion or geographyTake help of a translator to overcome differences in languageUse visualsBe respectful of other’s opinions
+Ways to overcome communication barriers:
 
-## Session 6: Writing Skills – Part of Speech
+- Use **simple language**.
+- Communicate **in person** whenever possible.
+- Do not make assumptions based on **culture, religion, or geography**.
+- Take the help of a **translator** to overcome language differences.
+- Use **visuals**.
+- Be respectful of other people’s **opinions**.
+
+## <u>Session 6: Writing Skills – Part of Speech</u>
 
 ### 30. What are Written Skills?
 
@@ -335,29 +373,36 @@ Use simple languageTry to communicate in person as much as possibleDo not form a
 
 If you are sending any message or instruction through writing is known as written communication. Written communication is important because it communicates the message with clarity and ease.
 
-### 31. How to improve writing skillsImprove your VocabularyCapitalization RulesPunctuationBasic parts of speech
+### 31. How to Improve Writing Skills?
+
+**Answer:**
+
+- Improve your **Vocabulary**
+- Learn **Capitalization Rules**
+- Use **Punctuation** correctly
+- Study the **basic parts of speech**
 
 ### 32. What are the basic parts of speech in the English Language?
 
 **Answer:**
 
-There are eight basic parts of speech in the English language. These are none, pronoun, verb, adjective, adverb, preposition, conjunction and interjection.
+There are eight basic parts of speech in the English language: **noun, pronoun, verb, adjective, adverb, preposition, conjunction, and interjection**.
 
-Noun – Nouns is the name of a person, place, animal or thing. This is also called ‘naming words.
+- **Noun:** Names a person, place, animal, or thing. It is also called a “naming word.”
 
-Pronoun – A pronoun is used in place of a noun.
+- **Pronoun:** A pronoun is used in place of a noun.
 
-Adjectives – Adjectives are words that describe other words.
+- **Adjective:** Describes another word.
 
-Verbs – Verbs are words that show action.
+- **Verb:** Shows action.
 
-Adverbs – Adverbs are words that add meaning to verbs, adjectives, or other adverbs.
+- **Adverb:** Adds meaning to a verb, adjective, or another adverb.
 
-Preposition – A preposition is a word palace before a noun or pronoun.
+- **Preposition:** A preposition is a word palace before a noun or pronoun.
 
-Conjunction – A conjunction is a word that connects two words, phrases, or clauses.
+- **Conjunction:** A conjunction is a word that connects two words, phrases, or clauses.
 
-Interjection – A word used to communicate emotion is called an interjection.
+- **Interjection:** A word used to communicate emotion is called an interjection.
 
 ### 33. Definition of pronunciation?
 
@@ -365,7 +410,7 @@ Interjection – A word used to communicate emotion is called an interjection.
 
 Many words in English are not pronounced the way they are spelt, so if you don’t say them right, others won’t understand what we’re saying. Pronunciation is defined as the act or style of pronouncing a word.
 
-## Session 7: Writing Skills – Sentences
+## <u>Session 7: Writing Skills – Sentences</u>
 
 ### 34. What are the various parts of the Sentence?
 
@@ -375,7 +420,11 @@ A subject and a verb make up a sentence. There is an object in some of the sente
 
 The verb comes after the subject and indicates that something is being done. An object, which usually comes after the verb, receives the action.
 
-There are three different types of parts of sentences –a. Subjectb. Verbc. Object
+There are three different types of parts of a sentence:
+
+1. **Subject**
+2. **Verb**
+3. **Object**
 
 ### 35. How many types of objects are there in the English language?
 
@@ -383,9 +432,9 @@ There are three different types of parts of sentences –a. Subjectb. Verbc. Obj
 
 Normally, the object comes after the verb phrase. The meaning of the verb determines whether or not an object is present. In English, there are two types of objects.
 
-Direct – The effects of action are known as direct objects. The queries ‘what’ and ‘whom’ are answered by a direct object. Ramesh spent the entire day collecting honey. Honey is made the direct object.
+- **Direct:** The effects of action are known as direct objects. The queries ‘what’ and ‘whom’ are answered by a direct object. Ramesh spent the entire day collecting honey. Honey is made the direct object.
 
-Indirect – The queries ‘to whom’, ‘for whom’, ‘to what’, and ‘for what’ are all answered by an indirect object. In the statement “Imran gave a gift to his mother,” for example. The verb is “gave,” and there are two objects in the sentence: “gift” and “mother.”.
+- **Indirect:** The queries ‘to whom’, ‘for whom’, ‘to what’, and ‘for what’ are all answered by an indirect object. In the statement “Imran gave a gift to his mother,” for example. The verb is “gave,” and there are two objects in the sentence: “gift” and “mother.”.
 
 ### 36. What are the Paragraphs?
 

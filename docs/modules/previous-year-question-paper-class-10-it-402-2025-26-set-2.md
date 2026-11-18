@@ -29,7 +29,7 @@ permalink: /modules/previous-year-question-paper-class-10-it-402-2025-26-set-2.h
 ### General Instructions
 
 - This question paper consists of 21 questions in two sections: **Section A** and **Section B**.
-- Section A has Objective Type Questions, whereas Section B contains Subjective Type Questions.
+- Section A contains Objective Type Questions; Section B contains Subjective Type Questions.
 - Out of 21 questions, `(5 + 16)`, a candidate has to answer 15 questions, `(5 + 10)`, within 2 hours.
 - All questions of a particular section must be attempted in the correct order.
 - **Section A:** 24 marks
@@ -38,45 +38,45 @@ permalink: /modules/previous-year-question-paper-class-10-it-402-2025-26-set-2.h
 
 ## <u>Section A: Objective Type Questions</u>
 
-### 1. Answer any 4 out of 6 questions on Employability Skills
+### 1. Answer any 4 out of 6 Employability Skills questions
 
-**(i) Mohan moved from Egypt to Canada and speaks little English. What barrier is affecting communication?**
+**(i) Priya cannot understand online-class instructions because of background noise and buffering. This is an example of:**
 
-- a) Interpersonal barrier
-- b) Cultural barrier
+- a) Linguistic barrier
+- b) Organisational barrier
 - c) Physical barrier
-- d) Linguistic barrier
+- d) Interpersonal barrier
 
-**Answer:** (d) **Linguistic barrier**
+**Answer:** (c) **Physical barrier**
 
-**(ii) James follows a rigid routine and now feels mentally drained. What is likely caused by overemphasis?**
+**(ii) Anita uses calming music, deep breathing and walking to cope with pressure. These are examples of:**
 
-- a) Stress
-- b) Discipline
-- c) Timeliness
-- d) Goal-setting
+- a) Poor time management
+- b) Negative coping mechanisms
+- c) Self-discipline strategies
+- d) Stress management techniques
 
-**Answer:** (b) **Discipline**
+**Answer:** (d) **Stress management techniques**
 
-**(iii) Which software is used to browse websites and access online content?**
+**(iii) Riya's project is stored permanently inside the CPU cabinet on:**
 
-- a) Web browser
-- b) Designing software
-- c) Office software
-- d) Operating system
+- a) RAM
+- b) Hard disk
+- c) Pen drive
+- d) Cache memory
 
-**Answer:** (a) **Web browser**
+**Answer:** (b) **Hard disk**
 
-**(iv) A successful entrepreneur should focus on high-quality _____.**
+**(iv) The process of identifying an opportunity, arranging resources and launching a business is:**
 
-- a) Satisfying human needs
-- b) Product and service
-- c) Calculated risk
-- d) Regular production
+- a) Employment
+- b) Production
+- c) Entrepreneurship
+- d) Investment
 
-**Answer:** (b) **Product and service**
+**Answer:** (c) **Entrepreneurship**
 
-**(v) Which of the following is not one of the SDGs in this question?**
+**(v) Which of these is not an SDG focused on protecting the world for future generations?**
 
 - a) Gender Equality
 - b) Affordable and Clean Energy
@@ -85,45 +85,45 @@ permalink: /modules/previous-year-question-paper-class-10-it-402-2025-26-set-2.h
 
 **Answer:** (d) **Industrial Growth**
 
-**(vi) In the SMART goal method, what does R stand for?**
+**(vi) Setting clear and specific goals demonstrates which skill?**
 
-- a) Realistic
-- b) Resourceful
-- c) Responsible
-- d) Relevant
+- a) Motivation
+- b) Leadership
+- c) Distraction
+- d) Dependence
 
-**Answer:** (a) **Realistic**
+**Answer:** (a) **Motivation**
 
 ### 2. Answer any 5 out of 6 questions
 
-**(i) Which tool is suitable for applying consistent styles to text and graphic frames?**
+**(i) Kabir wants text to wrap around an image. Which option should he choose?**
 
-- a) Format Painter
-- b) Style Inspector
-- c) Frame Styles
-- d) AutoFormat
+- a) In Line with Text
+- b) Wrap Through
+- c) Wrap Around
+- d) Wrap Above and Below
 
-**Answer:** (c) **Frame Styles**
+**Answer:** (c) **Wrap Around**
 
-**(ii) Which feature quickly applies the same style to several scattered paragraphs and headings?**
+**(ii) Neha wants to reuse custom paragraph spacing and alignment as a reusable style. What should she do?**
 
-- a) Create New Style
-- b) Update Selected Style
-- c) AutoFormat
-- d) Fill Format
+- a) New Style from Selection
+- b) Use AutoCorrect
+- c) Copy formatting with Format Painter
+- d) Enable Track Changes
 
-**Answer:** (d) **Fill Format**
+**Answer:** (a) **New Style from Selection**
 
-**(iii) Which feature makes websites and email addresses directly clickable?**
+**(iii) Which is not a correct image-file extension?**
 
-- a) Index of Keywords
-- b) Hyperlink tool
-- c) Table of Contents
-- d) Bookmark
+- a) GIF
+- b) JPEG
+- c) ODT
+- d) PNG
 
-**Answer:** (b) **Hyperlink tool**
+**Answer:** (c) **ODT**
 
-**(iv) Assertion-Reason: A macro is a single instruction that executes a set of instructions.**
+**(iv) Assertion-Reason: Goal Seek changes an input value to achieve a target result.**
 
 - a) Both A and R are true, and R explains A
 - b) Both A and R are true, but R does not explain A
@@ -132,404 +132,329 @@ permalink: /modules/previous-year-question-paper-class-10-it-402-2025-26-set-2.h
 
 **Answer:** (a) **Both A and R are true, and R explains A**
 
-**(v) Which Calc feature calculates the exact target sales figure for a desired profit?**
+**(v) Which Calc tool tests profit under different selling prices?**
 
-- a) Data Consolidate
-- b) External References
+- a) Goal Seek
+- b) Data Consolidate
 - c) What-if Scenarios
-- d) Goal Seek
+- d) Sort and Filter
 
-**Answer:** (d) **Goal Seek**
+**Answer:** (c) **What-if Scenarios**
 
-**(vi) Which menu path starts tracking spreadsheet changes in Calc?**
+**(vi) Which Calc menu path enables Track Changes?**
 
-- a) Tools → Review Changes → Manage
-- b) File → Options → Track Changes
-- c) Edit → Track Changes → Record
-- d) View → Track Changes → Review
+- a) Tools → Record Changes
+- b) Edit → Track Changes → Record
+- c) View → Comments
+- d) File → Options → Review
 
-**Answer:** (c) **Edit → Track Changes → Record**
+**Answer:** (b) **Edit → Track Changes → Record**
 
 ### 3. Answer any 5 out of 6 questions
 
-**(i) Which characteristic is most important for a good Table of Contents?**
+**(i) Rohit generates a Table of Contents, but page numbers are missing. What should he check?**
 
-- a) Decorative borders and stylish fonts
-- b) Placement after the title and copyright pages
-- c) Accurate and easily accessible entries
-- d) Colourful fonts and complex styles
+- a) Evaluate up to level 10
+- b) Enable Show page numbers
+- c) Insert hyperlinks
+- d) Disable outline numbering
 
-**Answer:** (c) **Accurate and easily accessible**
+**Answer:** (b) **Enable Show page numbers**
 
-**(ii) Exposed wires and desks near heating devices indicate which hazards?**
+**(ii) An employee spills water near electrical cables. Which hazards are relevant?**
 
-- a) Physical and fire hazards
-- b) Ergonomic and health hazards
-- c) Chemical and safety hazards
-- d) Biological and health hazards
+- a) Electrical and fire hazards
+- b) Chemical and biological hazards
+- c) Ergonomic and health hazards
+- d) Mechanical and physical hazards
 
-**Answer:** (a) **Physical and fire hazards**
+**Answer:** (a) **Electrical and fire hazards**
 
-**(iii) Which key uniquely identifies each database record?**
+**(iii) A candidate key selected to uniquely identify records becomes the:**
 
-- a) Primary key
-- b) Foreign key
-- c) Composite key
-- d) Candidate key
+- a) Alternate key
+- b) Composite key
+- c) Primary key
+- d) Foreign key
 
-**Answer:** (a) **Primary key**
+**Answer:** (c) **Primary key**
 
-**(iv) If a Base field is defined as float, it contains:**
+**(iv) If VARCHAR(10) receives 15 characters:**
 
-- a) Whole numbers only
-- b) Numbers with decimals
-- c) Text and numbers
-- d) Numbers up to 100 digits
+- a) Only the first 10 are stored
+- b) The field expands
+- c) The system shows an error
+- d) The record is deleted
 
-**Answer:** (b) **Numbers with decimals**
+**Answer:** (c) **The system shows an error**
 
-**(v) Which data model uses an inverted-tree structure with a master file and branches?**
+**(v) Which data model establishes relations between tables?**
 
-- a) Relational
-- b) Network
-- c) Hierarchical
-- d) All of these
+- a) Relational data model
+- b) Network data model
+- c) Hierarchical data model
+- d) Connection data model
 
-**Answer:** (c) **Hierarchical data model**
+**Answer:** (a) **Relational data model**
 
-**(vi) What does the Query Design View consist of?**
+**(vi) Which LibreOffice Base view defines table structure without SQL code?**
 
-- a) Navigation Pane and Query Preview
-- b) Objects Relationship Pane and Design Grid
-- c) Report Pane and Data Grid
-- d) Form Design Grid and SQL Pane
+- a) SQL View
+- b) Form View
+- c) Datasheet View
+- d) Design View
 
-**Answer:** (b) **Objects Relationship Pane and Design Grid**
+**Answer:** (d) **Design View**
 
 ### 4. Answer any 5 out of 6 questions
 
-**(i) What is the shortcut key to start recording changes when Track Changes is active?**
+**(i) Which option makes a Writer template the default for every new document?**
 
-- a) Ctrl+Shift+T
-- b) Ctrl+Alt+N
-- c) Ctrl+Shift+C
-- d) Ctrl+N
+- a) Save as Style
+- b) Set as Default Template
+- c) Apply AutoFormat
+- d) Link Template
 
-**Answer:** (c) **Ctrl+Shift+C**
+**Answer:** (b) **Set as Default Template**
 
-**(ii) Which Calc feature provides flexible summaries and different perspectives of a large dataset?**
-
-- a) Pivot Table
-- b) Consolidate with Link to source data
-- c) Data Validation
-- d) Scenario Manager
-
-**Answer:** (a) **Pivot Table**
-
-**(iii) What is Minimal Data Redundancy?**
-
-- a) It causes inconsistencies
-- b) DBMS keeps all data at one location
-- c) Redundancy is controlled and minimized
-- d) It improves retrieval speed
-
-**Answer:** (c) **Redundancy is controlled and minimized**
-
-**(iv) Which approach most effectively reduces fire risk in an office?**
-
-- a) Conflict resolution training
-- b) Installing ergonomic chairs
-- c) Providing fire extinguishers
-- d) Routine electrical inspections
-
-**Answer:** (c) **Providing fire extinguishers**
-
-**(v) Which Calc feature is correct for calculating a fixed monthly contribution of ₹5,000?**
+**(ii) How can a teacher find the exam score needed to obtain 85%?**
 
 - a) Goal Seek
-- b) Scenario Manager
+- b) Data Validation
 - c) Consolidate
-- d) Data Validation
+- d) Scenario Manager
 
 **Answer:** (a) **Goal Seek**
 
+**(iii) Which control allows selecting one option from predefined choices?**
+
+- a) Label
+- b) Text Box
+- c) Option Button
+- d) Command Button
+
+**Answer:** (c) **Option Button (Radio Button)**
+
+**(iv) A worker slips on spilled water. Which hazard and prevention apply?**
+
+- a) Physical hazard
+- b) Chemical hazard
+- c) Biological hazard
+- d) Fire hazard
+
+**Answer:** (a) **Physical hazard**
+
+**(v) Which Calc feature combines food, travel and rent expense sheets?**
+
+- a) Goal Seek
+- b) Consolidate
+- c) Scenario Manager
+- d) Data Validation
+
+**Answer:** (b) **Consolidate**
+
 **(vi) Which fire-class and material pairing is correct?**
 
-- a) Class A: gases; Class B: electrical equipment
-- b) Class C: wood; Class D: electrical equipment
-- c) Class B: flammable liquids and gases; Class A: wood, paper and cloth
-- d) Class D: paper and cloth; Class C: electrical equipment
+- a) Class A: electrical; Class B: metals
+- b) Class C: wood; Class D: gas
+- c) Class A: gases; Class B: electrical
+- d) Class A: wood, paper, cloth; Class B: petrol, oil, grease
 
-**Answer:** (c) **Class B: flammable liquids and gases; Class A: wood, paper and cloth**
+**Answer:** (d) **Class A: wood, paper, cloth; Class B: petrol, oil, grease**
 
 ### 5. Answer any 5 out of 6 questions
 
-**(i) Which Writer feature automates a reusable header, footer and formatting for project reports?**
+**(i) Shreya wants one click to center a title, make it bold and blue. Which feature helps?**
 
-- a) Template
-- b) Style Inspector
-- c) AutoFormat
-- d) Track Changes
+- a) Templates
+- b) Styles
+- c) Macros
+- d) Table of Contents
 
-**Answer:** (a) **Template**
+**Answer:** (c) **Macro**
 
-**(ii) Which LibreOffice feature creates structured database reports using fields and layouts?**
+**(ii) Which Base feature creates a printed, formatted sales summary?**
 
-- a) Report Wizard
-- b) AutoFormat
-- c) Both a and b
-- d) Neither a nor b
+- a) Form
+- b) Query
+- c) Table
+- d) Report
 
-**Answer:** (a) **Report Wizard**
+**Answer:** (d) **Report**
 
-**(iii) An evacuation drill helps employees become familiar with _____.**
+**(iii) During an emergency, employees gather at the:**
 
-- a) Fire extinguishers and safety protocols
-- b) Emergency exits and evacuation procedures
-- c) Safety equipment and fire alarms
-- d) Office layout and first-aid kits
+- a) Workstation
+- b) Assembly point
+- c) Safety room
+- d) Control centre
 
-**Answer:** (b) **Emergency exits and evacuation procedures**
+**Answer:** (b) **Assembly point**
 
-**(iv) What is the correct sequence for handling a laboratory chemical spill?**
+**(iv) Correct first-aid sequence for a small cut:**
 
-- a) Evacuate, inform supervisor, clean spill
-- b) Inform supervisor, evacuate, clean spill
-- c) Clean spill, inform supervisor, evacuate
-- d) Ignore and continue work
+- a) Wash, apply antiseptic, cover with bandage
+- b) Cover immediately, wash later
+- c) Ignore and continue
+- d) Apply pressure with dirty cloth
 
-**Answer:** (a) **Evacuate the area, inform the supervisor, then arrange cleaning by trained personnel**
+**Answer:** (a) **Wash, apply antiseptic, cover with bandage**
 
-**(v) Which actions should Raj prioritize in a manufacturing plant?**
+**(v) Aisha spills water near electrical equipment. What should she do first?**
 
-- a) Fix his workstation and leave machines to technicians
-- b) Report machine issues, clean surfaces, remove sharp tools and ensure guards
-- c) Focus only on his workspace
-- d) Clean common areas and ignore machine problems
+- a) Wipe it with paper towels
+- b) Switch off the power and then clean
+- c) Wait for housekeeping
+- d) Place a warning sign and leave it
 
-**Answer:** (b) **Report machine issues, clean surfaces, remove sharp tools and ensure safety guards**
+**Answer:** (b) **Switch off the power supply and then clean the spill**
 
-**(vi) How should two Calc versions be compared and merged?**
+**(vi) How should automatic edit logging be enabled for a shared file?**
 
-- a) Open one file and overwrite it
-- b) Open Review_Arun.ods, compare it, then merge Review_Neha.ods
-- c) Delete conflicting data manually
-- d) Use only Merge Document
+- a) Enable Track Changes → Record
+- b) Use Compare Document
+- c) Enable Scenario Manager
+- d) Run a macro
 
-**Answer:** (b) **Open Review_Arun.ods, use Compare Document, then use Merge Document**
+**Answer:** (a) **Enable Track Changes → Record**
 
 ## <u>Section B: Subjective Type Questions</u>
 
-### 6. Explain the three main parts of communication.
+### 6. State two causes of workplace stress.
 
 **Answer:**
 
-- **Transmitting:** The sender conveys a message through an appropriate medium.
-- **Listening:** The receiver receives and understands the message.
-- **Feedback:** The receiver responds, allowing the sender to know whether the message was understood.
+- Heavy workload and tight deadlines
+- Poor work-life balance or lack of control over work
 
-### 7. How can Ravi improve emotional intelligence and respond constructively to criticism?
-
-**Answer:**
-
-Ravi should recognize his emotional triggers and observe his reactions. He should pause before responding, think rationally and practise self-control through methods such as meditation or yoga.
-
-### 8. What is the main difference between an entrepreneur and a corporate employee?
+### 7. How can Rohit build self-awareness and manage nervousness?
 
 **Answer:**
 
-An entrepreneur usually assumes greater personal risk, manages several parts of the business and makes independent decisions. A corporate employee works within an established structure with defined responsibilities and less personal risk.
+Rohit should identify presentation-related triggers, practise calmly, rehearse in advance and use positive self-talk. Deep breathing and feedback from trusted colleagues can improve confidence and emotional control.
 
-### 9. What challenges affect sustainable development in relation to food security and water management?
-
-**Answer:**
-
-- Climate change affects crop yields and water availability.
-- Water scarcity results from overuse and pollution.
-- Food waste reduces resource efficiency.
-- Population growth increases demand for food and water.
-
-### 10. What measures can Amit use to protect his personal and work data?
+### 8. How is Wage Employment different from Self-Employment?
 
 **Answer:**
 
-- Use strong and unique passwords.
-- Install trusted antivirus software.
-- Enable firewall protection.
-- Regularly back up important data.
-- Update operating systems and applications.
-- Avoid suspicious links and unknown email attachments.
+Wage employment means working for an employer and receiving a salary or wages. Self-employment means running one's own business or profession and earning from the operation.
 
-### 11. Describe two types of paragraph styles and one feature of each.
+### 9. How does deforestation affect Sustainable Development?
 
 **Answer:**
 
-- **Text/Character style:** Controls font, size and colour for individual text.
-- **Paragraph style:** Controls alignment, line spacing and indentation for an entire paragraph.
+Deforestation reduces carbon absorption, biodiversity and fertile soil. It contributes to climate change, erosion and reduced water availability, undermining environmental and future economic sustainability.
 
-### 12. Track Changes in Calc.
-
-**(a) What steps are needed before activating Track Changes?**
+### 10. Precautions for a phishing email asking for bank details.
 
 **Answer:**
 
-Save and share the document for collaborative editing, then use **Tools → Track Changes → Record**.
+Do not reply or share passwords or bank details. Verify the sender through an official channel, avoid suspicious links and attachments, and report or delete the email.
 
-**(b) How can you check whether Edit Document is disabled?**
-
-**Answer:**
-
-Use **File → Properties → Security**. If **Edit Document** is unchecked or disabled, others cannot edit the shared document normally.
-
-### 13. Differentiate between One-to-One and Many-to-One relationships.
+### 11. Explain two types of templates and one use of each.
 
 **Answer:**
 
-- **One-to-One:** One record in a table relates to only one record in another table.
-- **Many-to-One:** Many records in one table relate to one record in another table.
+- **Document template:** Provides reusable page layouts and styles for reports or letters.
+- **Spreadsheet template:** Provides predefined sheets and calculations for budgets or registers.
 
-For example, one employee has one employee ID, while many employees can belong to one department.
+### 12. Compare and merge Calc documents.
 
-### 14. What causes slips, trips and falls in the workplace?
-
-**Answer:**
-
-- Wet or slippery floors
-- Cables, boxes or clutter in walkways
-- Uneven flooring or damaged carpets
-- Poor lighting
-
-### 15. What is the purpose of macros? Give two examples.
+**(a) Purpose of Compare Document**
 
 **Answer:**
 
-Macros automate repetitive tasks and improve efficiency.
+It identifies additions, deletions and changes between an original spreadsheet and a reviewed copy.
 
-- Generate reports, apply formatting and summarize data automatically.
-- Clean data by removing extra spaces or standardizing text and numbers.
-
-### 16. Immediate actions for a co-worker in contact with live electricity.
+**(b) Feature used to combine approved edits**
 
 **Answer:**
 
-Do not touch the victim directly. Switch off the power source if it is safe, or use a non-conductive object to separate the victim from the source. Raise the alarm and call emergency help.
+Use **Merge Document** after reviewing the compared versions.
 
-### 17. Brochure case study.
-
-**(a) Which feature fixes image-text alignment?**
+### 13. Distinguish between Tables and Queries.
 
 **Answer:**
 
-Use appropriate text-wrapping settings such as **Wrap Around**.
+Tables store structured records and fields. Queries retrieve, filter or calculate data from tables according to specified conditions.
 
-**(b) How can the logo remain at the top-left corner?**
-
-**Answer:**
-
-Anchor the image to the page or use a fixed position setting.
-
-**(c) How should text wrap around the product image?**
+### 14. Causes and prevention of ergonomic hazards.
 
 **Answer:**
 
-Select the **Wrap Around** text-wrapping option.
+Common causes include poor posture, unsuitable chairs and desks, repeated movement and screen positions that cause strain.
 
-**(d) How can the product image appear above other elements?**
+Preventive measure: Use adjustable furniture and maintain neutral posture.
+
+### 15. What is Conditional Formatting? Give two uses.
 
 **Answer:**
 
-Use **Bring to Front** or **Raise** in the Arrange menu.
+Conditional Formatting changes cell appearance when specified conditions are met.
+
+- Highlight marks below a passing threshold.
+- Use colour scales for sales or temperature ranges.
+
+### 16. What should Sneha do if smoke comes from an electrical socket?
+
+**Answer:**
+
+Raise the alarm and switch off power if it is safe. Do not touch the socket or use water. Move away and call the fire or emergency service.
+
+### 17. Magazine report formatting case study.
+
+**(a) Consistent title formatting:** Use a **Character or Paragraph Style**.
+
+**(b) Uniform page layout:** Use a **Page Style**.
+
+**(c) Quick reuse for scattered text:** Use **Fill Format**.
+
+**(d) Reusable document layout:** Use a **Template**.
 
 ### 18. Employee table.
 
-| Employee Name | Employee ID | Department | Salary | Date of Joining |
-| --- | --- | --- | ---: | --- |
-| John | 1001 | HR | 50000 | 01/01/2020 |
-| Jack | 1002 | IT | 60000 | 15/03/2019 |
-| Emily | 1003 | Sales | 55000 | 20/06/2018 |
-| Robin | 1004 | IT | 65000 | 10/07/2017 |
+| Emp_ID | Name | Department | Salary |
+| --- | --- | --- | ---: |
+| E101 | Rahul Verma | HR | 35000 |
+| E102 | Neha Sharma | IT | 50000 |
+| E103 | Arjun Patel | Finance | 45000 |
+| E104 | Meera Nair | IT | 55000 |
 
-**(a) Name all fields.**
+**(a) Fields:** Emp_ID, Name, Department and Salary.
 
-**Answer:**
+**(b) Primary key:** Emp_ID.
 
-Employee Name, Employee ID, Department, Salary and Date of Joining.
+**(c) Sorting field:** Salary or Name.
 
-**(b) Which field should be the primary key?**
+**(d) Sorting vs filtering:**
 
-**Answer:**
+**Sorting** reorders records; **Filtering** displays only records that meet a condition.
 
-**Employee ID**, because it uniquely identifies each employee.
-
-**(c) Suggest an alternate key.**
+### 19. List four ways to manage workplace stress.
 
 **Answer:**
 
-Employee Name may be used only if names are guaranteed to be unique.
+- Plan work and set priorities.
+- Take regular breaks and exercise.
+- Maintain healthy sleep and work-life balance.
+- Communicate concerns to a supervisor or colleague.
 
-**(d) Explain primary key and foreign key.**
+### 20. Library relationship between Books and IssueRecords.
 
-**Answer:**
+**(a) Relationship:** One-to-many.
 
-A primary key uniquely identifies a record in its own table. A foreign key in another table references that primary key.
+**(b) Foreign key:** BookID in IssueRecords.
 
-### 19. Preventing musculoskeletal problems.
+**(c) Update Cascade:** Changing BookID in Books updates matching IssueRecords references.
 
-**Answer:**
+**(d) Delete Cascade:** Deleting a book removes related IssueRecords automatically.
 
-- Maintain a straight back, relaxed shoulders and flat feet.
-- Use an ergonomic chair with lower-back support.
-- Take a break and stretch every 20–30 minutes.
-- Position keyboard and mouse at a comfortable height.
+### 21. Consolidating regional sales in Calc.
 
-### 20. Referential integrity in a library database.
+**(a) Feature:** Consolidate.
 
-**(a) What is referential integrity?**
+**(b) Function:** SUM, AVERAGE or COUNT determines how source values are combined.
 
-**Answer:**
+**(c) Link to Source Data:** Keeps the summary connected to source sheets so that changes update the consolidated result.
 
-Referential integrity ensures that every foreign-key value corresponds to an existing primary-key value or is NULL.
-
-**(b) Which option prevents deletion of a borrowed book?**
-
-**Answer:**
-
-Use **Restrict** on deletion.
-
-**(c) How does Update Cascade work?**
-
-**Answer:**
-
-Changing a BookID in Books automatically updates matching BorrowedBooks records.
-
-**(d) Explain Set NULL and Set Default.**
-
-**Answer:**
-
-**Set NULL** changes related foreign-key values to NULL. **Set Default** changes them to a predefined default value.
-
-### 21. Hyperlinks and external data in Calc.
-
-**(a) Why did the absolute hyperlink fail?**
-
-**Answer:**
-
-It stored the original computer's complete file path, which is not present on another computer. A relative hyperlink stores the path relative to the spreadsheet and remains more portable.
-
-**(b) What is Target in Document?**
-
-**Answer:**
-
-It creates a link to a specific location within the workbook, such as a sheet or named cell.
-
-**(c) What does Link to External Data do?**
-
-**Answer:**
-
-It imports live or refreshable data from an external web source or file into Calc.
-
-**(d) What are the advantages of relative hyperlinks and external data?**
-
-**Answer:**
-
-Relative hyperlinks keep shared reports portable. External links keep imported information current after refresh.
+**(d) Menu path:** **Data → Consolidate**.

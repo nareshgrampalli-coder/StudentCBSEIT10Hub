@@ -41,8 +41,12 @@ Ask for missing information only when it cannot be determined safely from the su
 7. Cross-check objective answers and subjective solutions using reliable sources where available.
 8. Prefer official CBSE answer keys, marking schemes or solved copies that match the exact question paper code and set.
 9. Record the solved-answer reference with a link on the module page.
-10. If an answer cannot be verified, mark it clearly as `[Answer not provided in source]`; never invent or guess an answer.
-11. For an answer found through research, include the exact verified option or concise answer text without silently changing the supplied question.
+10. Whenever an answer is not readily available in the supplied source, research it before deciding that it is unavailable.
+11. Search for matching educational sources using the exact subject, academic year, question paper code and set number.
+12. Cross-check every researched answer against at least two relevant sources or one official/authoritative source matching the paper.
+13. If an answer still cannot be verified after research, mark it clearly as `[Answer not provided in source]`; never invent or guess an answer.
+14. For an answer found through research, include the exact verified option or concise answer text without silently changing the supplied question.
+15. Add the research reference used for the update to the module's solved-answer reference or answer-key status.
 
 ## Filename convention
 
@@ -124,6 +128,9 @@ permalink: /modules/previous-year-question-paper-class-10-<subject-slug>-<year>.
   - Academic year
   - Question paper code
   - Set number
+- When the answer is missing from the supplied text, perform focused research before marking it unavailable.
+- Search using distinctive question wording plus the subject, year, paper code and set.
+- Confirm the answer is from the exact paper and set, not a similar question or another year.
 - Treat option-answer posts and AI summaries as supporting references, not automatic proof.
 - Prefer an official marking scheme or multiple matching independent sources.
 - Add a source link on the page for the answer key or solved paper.

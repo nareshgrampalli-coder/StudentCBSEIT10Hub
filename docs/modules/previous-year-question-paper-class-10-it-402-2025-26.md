@@ -26,6 +26,8 @@ permalink: /modules/previous-year-question-paper-class-10-it-402-2025-26.html
 
 **Maximum Marks:** 50
 
+**Solved answer reference:** [CBSE Class 10 Information Technology Question Paper 2026 — Solved Code 89](https://www.studiestoday.com/cbse-class-10-information-technology-question-paper-2026-solved-code-89)
+
 ### General Instructions
 
 Read the following instructions carefully.
@@ -49,7 +51,7 @@ Read the following instructions carefully.
 
 ## <u>Section A: Objective Type Questions</u>
 
-> **Answer key status:** Correct MCQ options are shown where they were provided in the source. Options marked **[Answer not provided in source]** are incomplete in the supplied question paper and must not be guessed.
+> **Answer key status:** Objective answers below were cross-checked against a solved copy of Question Paper Code 89, Set 4.
 
 ### 1. Answer any 4 out of the given 6 questions on Employability Skills.
 
@@ -60,7 +62,7 @@ Read the following instructions carefully.
 - c) Are you feeling better?
 - d) You were amazing!
 
-**Answer:** [Answer not provided in source]
+**Answer:** (a) **Shut the front door.**
 
 **(ii) Breaking down big goals into smaller parts will make the goals _____.**
 
@@ -69,7 +71,7 @@ Read the following instructions carefully.
 - c) achievable
 - d) realistic
 
-**Answer:** [Answer not provided in source]
+**Answer:** (c) **Achievable**
 
 **(iii) Define the term "Time Management".**
 
@@ -84,7 +86,7 @@ Time Management means planning and organising your time properly so that you can
 - c) Name of a person
 - d) Letters, numbers and special characters
 
-**Answer:** [Answer not provided in source]
+**Answer:** (d) **Letters, numbers and special characters**
 
 **(v) A misconception about an entrepreneur is:**
 
@@ -99,7 +101,7 @@ Entrepreneurs are born, not made.
 - c) Quality Education
 - d) Reduced Inequalities
 
-**Answer:** [Answer not provided in source]
+**Answer:** (a) **Population**
 
 ### 2. Answer any 5 out of the given 6 questions.
 
@@ -110,7 +112,7 @@ Entrepreneurs are born, not made.
 - c) Drag and Drop
 - d) Load Styles
 
-**Answer:** [Answer not provided in source]
+**Answer:** (b) **Fill Format**
 
 **(ii) While working with images in LibreOffice Writer, the reference point for an image or drawing acts as a _______.**
 
@@ -119,7 +121,7 @@ Entrepreneurs are born, not made.
 - c) Anchoring
 - d) Resizing
 
-**Answer:** [Answer not provided in source]
+**Answer:** (c) **Anchoring**
 
 **(iii) Which of the following style categories in LibreOffice Writer is used to define layout elements such as margins, headers and footers?**
 
@@ -128,7 +130,7 @@ Entrepreneurs are born, not made.
 - c) Frame Style
 - d) Table Style
 
-**Answer:** [Answer not provided in source]
+**Answer:** (b) **Page Style**
 
 **(iv) LibreOffice Writer supports up to how many levels of headings?**
 
@@ -137,7 +139,7 @@ Entrepreneurs are born, not made.
 - c) 11
 - d) 12
 
-**Answer:** [Answer not provided in source]
+**Answer:** (b) **10**
 
 **(v) Which of the following image tools is used to change an image to black and white, grayscale or a watermark?**
 
@@ -146,7 +148,7 @@ Entrepreneurs are born, not made.
 - c) Image Align
 - d) Image Size
 
-**Answer:** [Answer not provided in source]
+**Answer:** (b) **Image Mode**
 
 **(vi) A ______ is a preset layout that helps to create professional and/or formal documents easily.**
 
@@ -155,7 +157,7 @@ Entrepreneurs are born, not made.
 - c) TOC
 - d) SOC
 
-**Answer:** [Answer not provided in source]
+**Answer:** (a) **Template**
 
 ### 3. Answer any 5 out of the given 6 questions.
 
@@ -166,7 +168,7 @@ Entrepreneurs are born, not made.
 - c) What-if Scenarios
 - d) Filter
 
-**Answer:** [Answer not provided in source]
+**Answer:** (c) **What-if Scenarios**
 
 **(ii) While reviewing a shared spreadsheet, Priya notices that some cells have been modified, but she is unsure who made the changes. Which feature should she use to identify the editor?**
 
@@ -175,7 +177,7 @@ Entrepreneurs are born, not made.
 - c) Observe Changes
 - d) AutoFilter
 
-**Answer:** [Answer not provided in source]
+**Answer:** (b) **Track Changes**
 
 **(iii) Which of the following is the correct way to record a macro in LibreOffice Calc?**
 
@@ -184,7 +186,7 @@ Entrepreneurs are born, not made.
 - c) Insert → Macro → Record
 - d) View → Macros → Record
 
-**Answer:** [Answer not provided in source]
+**Answer:** (a) **Tools → Macros → Record Macro**
 
 **(iv) Which one of the following is the default function when a Consolidate dialog box opens in LibreOffice Calc?**
 
@@ -193,7 +195,7 @@ Entrepreneurs are born, not made.
 - c) Max
 - d) Var
 
-**Answer:** [Answer not provided in source]
+**Answer:** (b) **Sum**
 
 **(v) Which Calc feature allows multiple users to suggest edits while preserving the original data?**
 
@@ -202,7 +204,7 @@ Entrepreneurs are born, not made.
 - c) Track Changes
 - d) Insert Comments
 
-**Answer:** [Answer not provided in source]
+**Answer:** (d) **Insert Comments**
 
 **(vi) In Calc, which type of hyperlink uses the complete location where the file to be linked is stored?**
 
@@ -211,7 +213,7 @@ Entrepreneurs are born, not made.
 - c) Relative hyperlink
 - d) Static hyperlink
 
-**Answer:** [Answer not provided in source]
+**Answer:** (a) **Absolute hyperlink**
 
 ### 4. Answer any 5 out of the given 6 questions.
 
@@ -222,7 +224,7 @@ Entrepreneurs are born, not made.
 - c) a feature used to write queries
 - d) a chart to display statistical data
 
-**Answer:** [Answer not provided in source]
+**Answer:** (b) **An object with a user-friendly interface for data entry**
 
 **(ii) Which of the following is an example of a DBMS?**
 
@@ -231,7 +233,7 @@ Entrepreneurs are born, not made.
 - c) MS Word
 - d) Canva
 
-**Answer:** [Answer not provided in source]
+**Answer:** (b) **MySQL**
 
 **(iii) While forming a relationship between two tables in LibreOffice Base, the common field in both tables must have the ______.**
 
@@ -262,7 +264,7 @@ The common field in both tables must have the same data type. For example, if on
 - c) To create tables
 - d) To design the layout of forms and reports
 
-**Answer:** [Answer not provided in source]
+**Answer:** (b) **To retrieve data from the database and display it in the desired format**
 
 **(vi) In the ______ Data Model, data is stored in linked records organised into a tree-like structure.**
 
@@ -271,7 +273,7 @@ The common field in both tables must have the same data type. For example, if on
 - c) Fictional
 - d) Hierarchical
 
-**Answer:** [Answer not provided in source]
+**Answer:** (d) **Hierarchical**
 
 ### 5. Answer any 5 out of the given 6 questions.
 
@@ -282,7 +284,7 @@ The common field in both tables must have the same data type. For example, if on
 - c) Good lighting and ventilation
 - d) Using updated antivirus software
 
-**Answer:** [Answer not provided in source]
+**Answer:** (b) **Improper ergonomic setup**
 
 **(ii) Which type of fire extinguisher should not be used to extinguish an electrical fire?**
 
@@ -291,7 +293,7 @@ The common field in both tables must have the same data type. For example, if on
 - c) Dry chemical powder
 - d) ABC dry powder
 
-**Answer:** [Answer not provided in source]
+**Answer:** (b) **Mechanical foam**
 
 **(iii) Which of the following is the correct typing posture?**
 
@@ -300,7 +302,7 @@ The common field in both tables must have the same data type. For example, if on
 - c) Keeping the wrist floating in the air
 - d) Leaning back while typing
 
-**Answer:** [Answer not provided in source]
+**Answer:** (a) **When your elbows are by your sides, fingers should be above the home position (`asdf` and `jkl;`) on the keyboard**
 
 **(iv) A company mandates regular breaks, provides adjustable desks and encourages hydration for its employees. What is the primary objective of these policies?**
 
@@ -309,7 +311,7 @@ The common field in both tables must have the same data type. For example, if on
 - c) To promote employees' health and safety
 - d) To increase Internet speed
 
-**Answer:** [Answer not provided in source]
+**Answer:** (c) **To promote employees' health and safety**
 
 **(v) Which types of hazards are most common in the manufacturing and pharmaceutical industries?**
 
@@ -318,7 +320,7 @@ The common field in both tables must have the same data type. For example, if on
 - c) Noise hazards
 - d) Magnetic field hazards
 
-**Answer:** [Answer not provided in source]
+**Answer:** (b) **Biological and chemical hazards**
 
 **(vi) Materials are classified by risk of catching fire. Which of the following falls in the category of Class B materials?**
 
@@ -327,7 +329,7 @@ The common field in both tables must have the same data type. For example, if on
 - c) Grease
 - d) Electrical equipment
 
-**Answer:** [Answer not provided in source]
+**Answer:** (c) **Grease**
 
 ## <u>Section B: Subjective Type Questions</u>
 

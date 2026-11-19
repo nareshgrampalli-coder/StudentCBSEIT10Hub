@@ -24,6 +24,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const disclosure = document.createElement("details");
     const summary = document.createElement("summary");
+    summary.className = "answer-toggle";
     summary.textContent = "Show answer";
     disclosure.append(summary);
 

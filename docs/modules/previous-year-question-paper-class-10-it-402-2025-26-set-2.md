@@ -76,14 +76,14 @@ permalink: /modules/previous-year-question-paper-class-10-it-402-2025-26-set-2.h
 
 **Answer:** (c) **Entrepreneurship**
 
-**(v) Which of these is not an SDG focused on protecting the world for future generations?**
+**(v) Goal 13 of the Sustainable Development Goals focuses on taking urgent action to combat __________ and its impacts.**
 
-- a) Gender Equality
-- b) Affordable and Clean Energy
-- c) Climate Action
-- d) Industrial Growth
+- a) Climate Change
+- b) Pollution
+- c) Deforestation
+- d) Soil Erosion
 
-**Answer:** (d) **Industrial Growth**
+**Answer:** (a) **Climate Change**
 
 **(vi) Setting clear and specific goals demonstrates which skill?**
 
@@ -124,6 +124,8 @@ permalink: /modules/previous-year-question-paper-class-10-it-402-2025-26-set-2.h
 **Answer:** (c) **ODT**
 
 **(iv) Assertion-Reason: Goal Seek changes an input value to achieve a target result.**
+
+Reason (R): Goal Seek reverses the formula's calculation process to determine the necessary input value.
 
 - a) Both A and R are true, and R explains A
 - b) Both A and R are true, but R does not explain A
@@ -235,7 +237,7 @@ permalink: /modules/previous-year-question-paper-class-10-it-402-2025-26-set-2.h
 
 **Answer:** (c) **Option Button (Radio Button)**
 
-**(iv) A worker slips on spilled water. Which hazard and prevention apply?**
+**(iv) A worker slips on spilled water during cleaning. Which type of hazard is involved?**
 
 - a) Physical hazard
 - b) Chemical hazard

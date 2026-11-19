@@ -88,7 +88,7 @@ Time Management means planning and organising your time properly so that you can
 
 **Answer:** (d) **Letters, numbers and special characters**
 
-**(v) A misconception about an entrepreneur is:**
+**(v) Entrepreneurs are __________, not __________.**
 
 **Answer:**
 

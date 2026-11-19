@@ -40,7 +40,11 @@ permalink: /modules/previous-year-question-paper-class-10-it-402-2026-27.html
 
 ### 1. Answer any 4 out of 6 questions on Employability Skills
 
-**(i) Feedback is important in the communication cycle. Which statement is correct?**
+**(i) Read the statements about feedback in the communication cycle and choose the correct option.**
+
+Statement 1: Feedback is an important part of the communication cycle because it shows whether the receiver has understood the message.
+
+Statement 2: Communication is complete even if the receiver does not understand the message and provide feedback.
 
 - a) Both statements are false
 - b) Both statements are true
@@ -277,12 +281,18 @@ permalink: /modules/previous-year-question-paper-class-10-it-402-2026-27.html
 
 **Answer:** (b) **Mail Merge**
 
-**(ii) Which statements about database fields are correct?**
+**(ii) Consider the following statements about database fields and choose the correct option.**
 
-- a) Statements 1 and 2
-- b) Statements 2 and 3
-- c) Statements 1 and 3
-- d) All three
+Statement 1: The Field Type option allows you to specify the data type for each field.
+
+Statement 2: Field properties control how data is handled in a database.
+
+Statement 3: AutoValue sets a predefined value for new records in the field.
+
+- a) Statements 1 and 2 are correct
+- b) Statements 2 and 3 are correct
+- c) Statements 1 and 3 are correct
+- d) All three statements are correct
 
 **Answer:** (d) **All three statements are correct**
 
@@ -313,12 +323,16 @@ permalink: /modules/previous-year-question-paper-class-10-it-402-2026-27.html
 
 **Answer:** (d) **Store flammable material near electrical equipment**
 
-**(vi) Which statements about loading styles are correct?**
+**(vi) Examine the statements about loading styles and choose the correct option.**
 
-- a) Both statements are correct
-- b) Both are incorrect
-- c) Statement 1 is correct and 2 is incorrect
-- d) Statement 1 is incorrect and 2 is correct
+Statement 1: Loading styles from a template allows users to apply predefined formatting to their current document.
+
+Statement 2: The Load Styles from Template option is used to copy styles from another document or template into the current document.
+
+- a) Statement 1 is correct, Statement 2 is correct
+- b) Statement 1 is incorrect, Statement 2 is incorrect
+- c) Statement 1 is correct, Statement 2 is incorrect
+- d) Statement 1 is incorrect, Statement 2 is correct
 
 **Answer:** (a) **Both statements are correct**
 

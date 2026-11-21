@@ -14,7 +14,7 @@ permalink: /modules/basic-ict-skills-class-10-short-notes.html
 
 ![Computer system diagram showing input, processing, storage, output, security, and backups](../assets/short-notes/computer-flow.svg)
 
-<p align="center"><strong>Figure 3: Inputâ€“processâ€“storageâ€“output model of a computer system</strong></p>
+<p align="center"><strong>Figure 3: Input–process–storage–output model of a computer system</strong></p>
 
 ### Computer system
 
@@ -28,7 +28,7 @@ permalink: /modules/basic-ict-skills-class-10-short-notes.html
 
 **Hardware** is the physical equipment. **Software** is the set of instructions that controls it. An operating system manages files, memory, devices, and applications.
 
-> **Memory tip â€” IPOS:** **Input, Process, Output, Store**. Remember: data goes **in**, gets **processed**, and comes **out** or is **stored**.
+> **Memory tip — IPOS:** **Input, Process, Output, Store**. Remember: data goes **in**, gets **processed**, and comes **out** or is **stored**.
 
 ### Files and folders
 
@@ -36,10 +36,10 @@ A **file** is a named collection of stored information. A **folder** organizes f
 
 ```text
 School Work
-â””â”€â”€ Information Technology
-    â”œâ”€â”€ Notes
-    â”œâ”€â”€ Practicals
-    â””â”€â”€ Assignments
+└── Information Technology
+    ├── Notes
+    ├── Practicals
+    └── Assignments
 ```
 
 Good file organization uses meaningful names, suitable folders, version information where needed, and regular deletion of duplicates. Copying creates another copy; moving transfers a file to another location; renaming changes its identifying name.
@@ -74,4 +74,4 @@ Safe practices:
 - Keep antivirus protection and updates active.
 - Back up important work.
 
-> **Memory tip â€” SAFE:** **S**ecure passwords, **A**void suspicious links, **F**ix updates promptly, **E**xtra-copy important data.
+> **Memory tip — SAFE:** **S**ecure passwords, **A**void suspicious links, **F**ix updates promptly, **E**xtra-copy important data.

@@ -19,7 +19,7 @@ A database stores related data in an organized form. A **DBMS** provides tools t
 ### Data and information
 
 - **Data:** Unprocessed facts, such as `Asha`, `18`, and `92`.
-- **Information:** Data organized to provide meaning, such as â€œAsha scored 92 out of 100.â€
+- **Information:** Data organized to provide meaning, such as “Asha scored 92 out of 100.”
 - **Database:** Organized collection of related data.
 - **DBMS:** Software that manages the database.
 
@@ -62,7 +62,7 @@ Many students <----> Many activities        (many-to-many)
 
 Many-to-many relationships are commonly represented using a connecting table.
 
-> **Memory tip â€” PK/FK:** **Primary Key = unique identity inside its own table. Foreign Key = visitor's identity linking to another table.**
+> **Memory tip — PK/FK:** **Primary Key = unique identity inside its own table. Foreign Key = visitor's identity linking to another table.**
 
 ### Data types
 
@@ -105,4 +105,4 @@ ORDER BY Marks DESC;
 - `ORDER BY` sorts the result.
 - `INSERT`, `UPDATE`, and `DELETE` modify records.
 
-> **Memory tip â€” SQL order:** **Some Friendly Wizards Order** â†’ **SELECT, FROM, WHERE, ORDER BY**.
+> **Memory tip — SQL order:** **Some Friendly Wizards Order** → **SELECT, FROM, WHERE, ORDER BY**.

@@ -14,7 +14,7 @@ permalink: /modules/entrepreneurial-skills-class-10-short-notes.html
 
 ![Entrepreneurship cycle from customer need to feedback and business growth](../assets/short-notes/entrepreneurship-cycle.svg)
 
-<p align="center"><strong>Figure 4: Entrepreneurship cycle â€” from customer need to enterprise growth</strong></p>
+<p align="center"><strong>Figure 4: Entrepreneurship cycle — from customer need to enterprise growth</strong></p>
 
 ### Entrepreneur and enterprise
 
@@ -32,7 +32,7 @@ Entrepreneurs create value by solving a customer problem. The product or service
 - **Planning:** Converts a goal into tasks, time, and resources.
 - **Communication:** Understands customers and works with teams.
 
-> **Memory tip â€” I CREATE:** **I**nitiative, **C**reativity, **R**isk awareness, **E**ffort, **A**daptability, **T**eam leadership, **E**valuation.
+> **Memory tip — I CREATE:** **I**nitiative, **C**reativity, **R**isk awareness, **E**ffort, **A**daptability, **T**eam leadership, **E**valuation.
 
 ### Main entrepreneurial functions
 

@@ -16,7 +16,7 @@ Communication is the purposeful exchange of ideas, information, feelings, or ins
 
 ![Communication cycle showing sender, encoding, channel, receiver, and feedback](../assets/short-notes/communication-cycle.svg)
 
-<p align="center"><strong>Figure 1: The communication cycle â€” idea, message, channel, receiver, and feedback</strong></p>
+<p align="center"><strong>Figure 1: The communication cycle — idea, message, channel, receiver, and feedback</strong></p>
 
 - **Sender:** Creates the idea and sends the message.
 - **Encoding:** Converts the idea into words, signs, sounds, or symbols.
@@ -37,7 +37,7 @@ Communication is the purposeful exchange of ideas, information, feelings, or ins
 | **Complete** | Answer what, why, how, when, and where when relevant. |
 | **Courteous** | Remain polite and respectful. |
 
-> **Memory tip â€” 7 C's:** **Clever Cats Can Correctly Carry Complete Conversations:** Clear, Concise, Concrete, Correct, Coherent, Complete, Courteous.
+> **Memory tip — 7 C's:** **Clever Cats Can Correctly Carry Complete Conversations:** Clear, Concise, Concrete, Correct, Coherent, Complete, Courteous.
 
 ### Verbal, non-verbal, and visual communication
 

@@ -50,7 +50,7 @@ Position: change regularly
 
 Long periods in one posture can lead to muscle strain, back pain, wrist injury, or eye discomfort. Good practices include appropriate seating, neutral wrists, proper screen distance, reduced glare, and short regular breaks.
 
-> **Memory tip â€” SAFE workstation:** **S**creen at eye level, **A**ligned back and wrists, **F**eet supported, **E**xercise or take breaks.
+> **Memory tip — SAFE workstation:** **S**creen at eye level, **A**ligned back and wrists, **F**eet supported, **E**xercise or take breaks.
 
 ### Air, water, waste, and quality
 
@@ -74,7 +74,7 @@ During an evacuation:
 
 ### Fire extinguisher awareness
 
-An extinguisher works only when the correct type is selected and used by a trained person. The major extinguisher agents include water, foam, COâ‚‚, dry powder, and wet chemical; each suits different fire types.
+An extinguisher works only when the correct type is selected and used by a trained person. The major extinguisher agents include water, foam, CO₂, dry powder, and wet chemical; each suits different fire types.
 
 ```text
 If the fire is unsafe or smoke is spreading:
@@ -83,7 +83,7 @@ Raise alarm -> Evacuate -> Call emergency services
 
 Do not fight a fire when an exit is not safely available, smoke prevents visibility, or the correct equipment and training are unavailable.
 
-> **Memory tip â€” A-R-C:** **Alarm, Route, Contact help**. Raise the alarm, follow the safe route, and contact emergency services.
+> **Memory tip — A-R-C:** **Alarm, Route, Contact help**. Raise the alarm, follow the safe route, and contact emergency services.
 
 ### First aid and CPR
 

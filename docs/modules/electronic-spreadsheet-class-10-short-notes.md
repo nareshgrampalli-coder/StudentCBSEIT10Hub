@@ -58,7 +58,7 @@ Changed input -> Calculation -> Changed result
 | **Multiple Operations** | Shows the effect of one or two changing variables on a formula. |
 | **Goal Seek** | Finds the input value needed to produce a desired formula result. |
 
-> **Memory tip â€” 3 analysis tools:** **S-M-G**: **Scenario** compares sets, **Multiple Operations** tests combinations, **Goal Seek** works backwards from a target.
+> **Memory tip — 3 analysis tools:** **S-M-G**: **Scenario** compares sets, **Multiple Operations** tests combinations, **Goal Seek** works backwards from a target.
 
 Example: if a profit formula depends on units sold, Goal Seek can determine the number of units required to obtain a target profit.
 
@@ -72,7 +72,7 @@ Repeated manual steps -> Record macro -> Run one command
 
 Macros may contain executable code. Therefore, enable and run macros only from trusted documents.
 
-> **Memory tip â€” Macro:** **Macro = Many Actions, Recorded, Combined, Once-run**.
+> **Memory tip — Macro:** **Macro = Many Actions, Recorded, Combined, Once-run**.
 
 ### Hyperlinks and data linking
 

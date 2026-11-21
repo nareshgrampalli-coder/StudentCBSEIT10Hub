@@ -48,7 +48,7 @@ Practical student actions:
 - Buy only what is needed and maintain items to extend their life.
 - Plant and protect local trees.
 
-> **Memory tip â€” 3R+R:** **Refuse, Reduce, Reuse, Repair, Recycle**. First avoid waste; disposal is the last choice.
+> **Memory tip — 3R+R:** **Refuse, Reduce, Reuse, Repair, Recycle**. First avoid waste; disposal is the last choice.
 
 ### Sustainable Development Goals
 

@@ -63,9 +63,9 @@ Self-motivated learners show commitment, focus, confidence, and willingness to c
 Specific -> Measurable -> Achievable -> Realistic -> Time-bound
 ```
 
-> **Memory tip â€” SMART:** **Sensible Maps Always Reach Targets:** Specific, Measurable, Achievable, Realistic, Time-bound.
+> **Memory tip — SMART:** **Sensible Maps Always Reach Targets:** Specific, Measurable, Achievable, Realistic, Time-bound.
 
-For example, â€œI will revise the DBMS unit for 30 minutes every day for 14 days and solve one worksheet on each topicâ€ is more useful than â€œI will study harder.â€
+For example, “I will revise the DBMS unit for 30 minutes every day for 14 days and solve one worksheet on each topic” is more useful than “I will study harder.”
 
 ### Time management
 

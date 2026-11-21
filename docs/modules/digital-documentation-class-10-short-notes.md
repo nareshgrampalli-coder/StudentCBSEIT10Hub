@@ -38,7 +38,7 @@ Change style definition
 All linked paragraphs update consistently
 ```
 
-> **Memory tip â€” STYLE:** **S**elect content, **T**arget the correct style, **Y**ield consistent formatting, **L**ink to headings, **E**dit the style once.
+> **Memory tip — STYLE:** **S**elect content, **T**arget the correct style, **Y**ield consistent formatting, **L**ink to headings, **E**dit the style once.
 
 ### Images and drawing objects
 
@@ -63,17 +63,17 @@ Important operations:
 
 ```text
 Anchor target
-   â”œâ”€â”€ Page
-   â”œâ”€â”€ Paragraph
-   â”œâ”€â”€ Character
-   â””â”€â”€ Frame
+   ├── Page
+   ├── Paragraph
+   ├── Character
+   └── Frame
 ```
 
 **Text wrapping** controls how text flows around the object. For example, text can wrap around an image, remain above and below it, or pass in a selected direction.
 
 Anchor controls what the object follows; wrap controls how surrounding text behaves.
 
-> **Memory tip â€” A before W:** **Anchor** fixes the object's reference; **Wrap** tells text where to flow around it.
+> **Memory tip — A before W:** **Anchor** fixes the object's reference; **Wrap** tells text where to flow around it.
 
 ### Table of contents and headings
 

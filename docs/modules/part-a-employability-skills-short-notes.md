@@ -22,6 +22,8 @@ Communication is the purposeful exchange of ideas, information, feelings, or ins
 
 ![Communication cycle showing sender, encoding, channel, receiver, and feedback](../assets/short-notes/communication-cycle.svg)
 
+<p align="center"><strong>Figure 1: The communication cycle — idea, message, channel, receiver, and feedback</strong></p>
+
 - **Sender:** Creates the idea and sends the message.
 - **Encoding:** Converts the idea into words, signs, sounds, or symbols.
 - **Channel:** Medium such as speech, writing, email, telephone, or body language.
@@ -40,6 +42,8 @@ Communication is the purposeful exchange of ideas, information, feelings, or ins
 | **Coherent** | Present ideas in a logical order. |
 | **Complete** | Answer what, why, how, when, and where when relevant. |
 | **Courteous** | Remain polite and respectful. |
+
+> **Memory tip — 7 C's:** **Clever Cats Can Correctly Carry Complete Conversations:** Clear, Concise, Concrete, Correct, Coherent, Complete, Courteous.
 
 ### Verbal, non-verbal, and visual communication
 
@@ -94,6 +98,8 @@ Self-management is the ability to regulate emotions, behaviour, effort, and time
 
 ![Self-management cycle showing self-awareness, SMART goals, planning, action, and review](../assets/short-notes/self-management.svg)
 
+<p align="center"><strong>Figure 2: Self-management improvement cycle</strong></p>
+
 ### Self-awareness
 
 **Self-awareness** means understanding your interests, values, strengths, weaknesses, emotions, and typical reactions.
@@ -141,6 +147,8 @@ Self-motivated learners show commitment, focus, confidence, and willingness to c
 Specific -> Measurable -> Achievable -> Realistic -> Time-bound
 ```
 
+> **Memory tip — SMART:** **Sensible Maps Always Reach Targets:** Specific, Measurable, Achievable, Realistic, Time-bound.
+
 For example, “I will revise the DBMS unit for 30 minutes every day for 14 days and solve one worksheet on each topic” is more useful than “I will study harder.”
 
 ### Time management
@@ -166,6 +174,8 @@ An important decision is to distinguish:
 
 ![Computer system diagram showing input, processing, storage, output, security, and backups](../assets/short-notes/computer-flow.svg)
 
+<p align="center"><strong>Figure 3: Input–process–storage–output model of a computer system</strong></p>
+
 ### Computer system
 
 | Component | Function | Examples |
@@ -177,6 +187,8 @@ An important decision is to distinguish:
 | **Communication** | Connects computers and networks | NIC, Wi-Fi, modem |
 
 **Hardware** is the physical equipment. **Software** is the set of instructions that controls it. An operating system manages files, memory, devices, and applications.
+
+> **Memory tip — IPOS:** **Input, Process, Output, Store**. Remember: data goes **in**, gets **processed**, and comes **out** or is **stored**.
 
 ### Files and folders
 
@@ -222,6 +234,8 @@ Safe practices:
 - Keep antivirus protection and updates active.
 - Back up important work.
 
+> **Memory tip — SAFE:** **S**ecure passwords, **A**void suspicious links, **F**ix updates promptly, **E**xtra-copy important data.
+
 ---
 
 ## <u>Unit 4: Entrepreneurial Skills</u>
@@ -229,6 +243,8 @@ Safe practices:
 **Entrepreneurship** is the process of identifying an opportunity, organizing resources, developing a solution, accepting reasonable risk, and operating an enterprise.
 
 ![Entrepreneurship cycle from customer need to feedback and business growth](../assets/short-notes/entrepreneurship-cycle.svg)
+
+<p align="center"><strong>Figure 4: Entrepreneurship cycle — from customer need to enterprise growth</strong></p>
 
 ### Entrepreneur and enterprise
 
@@ -245,6 +261,8 @@ Entrepreneurs create value by solving a customer problem. The product or service
 - **Risk-taking:** Accepts calculated, not reckless, risks.
 - **Planning:** Converts a goal into tasks, time, and resources.
 - **Communication:** Understands customers and works with teams.
+
+> **Memory tip — I CREATE:** **I**nitiative, **C**reativity, **R**isk awareness, **E**ffort, **A**daptability, **T**eam leadership, **E**valuation.
 
 ### Main entrepreneurial functions
 
@@ -282,6 +300,8 @@ The entrepreneur studies the market, estimates costs, arranges finance, manages 
 
 ![Sustainability diagram balancing environment, society, and economy with the waste hierarchy](../assets/short-notes/sustainability.svg)
 
+<p align="center"><strong>Figure 5: Sustainability balance and preferred waste hierarchy</strong></p>
+
 Sustainability requires all three areas to remain in balance. Economic development without environmental and social responsibility is not sustainable.
 
 ### Major environmental challenges
@@ -313,6 +333,8 @@ Practical student actions:
 - Separate recyclable waste correctly.
 - Buy only what is needed and maintain items to extend their life.
 - Plant and protect local trees.
+
+> **Memory tip — 3R+R:** **Refuse, Reduce, Reuse, Repair, Recycle**. First avoid waste; disposal is the last choice.
 
 ### Sustainable Development Goals
 

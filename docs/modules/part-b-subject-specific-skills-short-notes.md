@@ -19,6 +19,8 @@ Digital documentation is the planned creation, editing, formatting, reviewing, a
 
 ![Digital documentation workflow from planning to publishing with style-based structure](../assets/short-notes/document-workflow.svg)
 
+<p align="center"><strong>Figure 1: Digital documentation workflow and heading hierarchy</strong></p>
+
 ### Styles
 
 A **style** stores a reusable group of formatting properties. Changing the style updates every element that uses it, unlike manual formatting.
@@ -40,6 +42,8 @@ Change style definition
           v
 All linked paragraphs update consistently
 ```
+
+> **Memory tip — STYLE:** **S**elect content, **T**arget the correct style, **Y**ield consistent formatting, **L**ink to headings, **E**dit the style once.
 
 ### Images and drawing objects
 
@@ -74,6 +78,8 @@ Anchor target
 
 Anchor controls what the object follows; wrap controls how surrounding text behaves.
 
+> **Memory tip — A before W:** **Anchor** fixes the object's reference; **Wrap** tells text where to flow around it.
+
 ### Table of contents and headings
 
 A **Table of Contents (TOC)** is generated from heading styles. A logical hierarchy is essential:
@@ -102,6 +108,8 @@ A **template** is a reusable starting document containing layout, styles, text, 
 A spreadsheet organizes data in cells and supports calculations, analysis, decision-making, and charts.
 
 ![Spreadsheet analysis flow from regional data through consolidation and tools to a decision](../assets/short-notes/spreadsheet-analysis.svg)
+
+<p align="center"><strong>Figure 2: Spreadsheet data-to-decision workflow</strong></p>
 
 ### Data consolidation
 
@@ -145,6 +153,8 @@ Changed input -> Calculation -> Changed result
 | **Multiple Operations** | Shows the effect of one or two changing variables on a formula. |
 | **Goal Seek** | Finds the input value needed to produce a desired formula result. |
 
+> **Memory tip — 3 analysis tools:** **S-M-G**: **Scenario** compares sets, **Multiple Operations** tests combinations, **Goal Seek** works backwards from a target.
+
 Example: if a profit formula depends on units sold, Goal Seek can determine the number of units required to obtain a target profit.
 
 ### Macros
@@ -156,6 +166,8 @@ Repeated manual steps -> Record macro -> Run one command
 ```
 
 Macros may contain executable code. Therefore, enable and run macros only from trusted documents.
+
+> **Memory tip — Macro:** **Macro = Many Actions, Recorded, Combined, Once-run**.
 
 ### Hyperlinks and data linking
 
@@ -181,6 +193,8 @@ A registered data source can connect Calc to external database data for analysis
 A database stores related data in an organized form. A **DBMS** provides tools to define structures, enter and update data, retrieve information, enforce rules, and protect data.
 
 ![Relational database model connecting Student and Course tables with database objects](../assets/short-notes/database-model.svg)
+
+<p align="center"><strong>Figure 3: Relational database tables connected by primary and foreign keys</strong></p>
 
 ### Data and information
 
@@ -228,6 +242,8 @@ Many students <----> Many activities        (many-to-many)
 
 Many-to-many relationships are commonly represented using a connecting table.
 
+> **Memory tip — PK/FK:** **Primary Key = unique identity inside its own table. Foreign Key = visitor's identity linking to another table.**
+
 ### Data types
 
 | Category | Purpose |
@@ -269,6 +285,8 @@ ORDER BY Marks DESC;
 - `ORDER BY` sorts the result.
 - `INSERT`, `UPDATE`, and `DELETE` modify records.
 
+> **Memory tip — SQL order:** **Some Friendly Wizards Order** → **SELECT, FROM, WHERE, ORDER BY**.
+
 ---
 
 ## <u>Unit 4: Maintain a Healthy, Safe and Secure Working Environment</u>
@@ -276,6 +294,8 @@ ORDER BY Marks DESC;
 A healthy workplace protects people, equipment, data, and the surrounding environment. Safety requires both formal rules and careful daily behaviour.
 
 ![Workplace safety cycle, ergonomic workstation, and emergency response](../assets/short-notes/workplace-safety.svg)
+
+<p align="center"><strong>Figure 4: Hazard-control cycle, ergonomic workstation, and emergency response</strong></p>
 
 ### Health, safety, and security policy
 
@@ -311,6 +331,8 @@ Position: change regularly
 
 Long periods in one posture can lead to muscle strain, back pain, wrist injury, or eye discomfort. Good practices include appropriate seating, neutral wrists, proper screen distance, reduced glare, and short regular breaks.
 
+> **Memory tip — SAFE workstation:** **S**creen at eye level, **A**ligned back and wrists, **F**eet supported, **E**xercise or take breaks.
+
 ### Air, water, waste, and quality
 
 Workplace quality includes clean drinking water, proper ventilation, controlled noise, suitable lighting, hygienic surroundings, and responsible waste disposal. Electrical waste, batteries, chemicals, and confidential paper need suitable separate handling.
@@ -341,6 +363,8 @@ Raise alarm -> Evacuate -> Call emergency services
 ```
 
 Do not fight a fire when an exit is not safely available, smoke prevents visibility, or the correct equipment and training are unavailable.
+
+> **Memory tip — A-R-C:** **Alarm, Route, Contact help**. Raise the alarm, follow the safe route, and contact emergency services.
 
 ### First aid and CPR
 

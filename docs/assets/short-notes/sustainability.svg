@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 430" role="img" aria-labelledby="title desc">
   <title id="title">Sustainable development balance</title>
   <desc id="desc">Environment, society, and economy overlap to create sustainability, with a hierarchy of waste prevention.</desc>
-  <defs><style>.t{font:700 18px Arial;fill:#fff}.s{font:14px Arial;fill:#334155}</style></defs>
+  <defs><style>.t{font:700 20px Arial;fill:#fff}.s{font:17px Arial;fill:#334155}</style></defs>
   <rect width="900" height="430" rx="20" fill="#f8fafc"/><text x="450" y="38" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#172554">Sustainable Choices Balance Three Pillars</text>
   <circle cx="390" cy="160" r="100" fill="#22c55e" fill-opacity=".78"/><circle cx="510" cy="160" r="100" fill="#0ea5e9" fill-opacity=".78"/><circle cx="450" cy="240" r="100" fill="#f59e0b" fill-opacity=".78"/>
   <text x="335" y="120" text-anchor="middle" class="t">Environment</text><text x="565" y="120" text-anchor="middle" class="t">Society</text><text x="450" y="285" text-anchor="middle" class="t">Economy</text><text x="450" y="190" text-anchor="middle" class="t">SUSTAINABLE</text>

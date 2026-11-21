@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" role="img" aria-labelledby="title desc">
   <title id="title">Spreadsheet analysis workflow</title>
   <desc id="desc">Source sheets consolidate into analysis, what-if tools, macros, and a decision.</desc>
-  <defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0 0L0 6L9 3z" fill="#16a34a"/></marker><style>.b{fill:#f0fdf4;stroke:#16a34a;stroke-width:3}.t{font:700 17px Arial;fill:#14532d}.s{font:13px Arial;fill:#475569}.l{stroke:#16a34a;stroke-width:4;marker-end:url(#a)}</style></defs>
+  <defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0 0L0 6L9 3z" fill="#16a34a"/></marker><style>.b{fill:#f0fdf4;stroke:#16a34a;stroke-width:3}.t{font:700 20px Arial;fill:#14532d}.s{font:16px Arial;fill:#475569}.l{stroke:#16a34a;stroke-width:4;marker-end:url(#a)}</style></defs>
   <rect width="900" height="400" rx="20" fill="#f8fafc"/><text x="450" y="38" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#172554">Spreadsheet Data-to-Decision Flow</text>
   <rect x="35" y="75" width="155" height="55" rx="12" class="b"/><text x="112" y="110" text-anchor="middle" class="t">North data</text>
   <rect x="35" y="160" width="155" height="55" rx="12" class="b"/><text x="112" y="195" text-anchor="middle" class="t">South data</text>

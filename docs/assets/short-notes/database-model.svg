@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 430" role="img" aria-labelledby="title desc">
   <title id="title">Relational database model</title>
   <desc id="desc">Student and Course tables are connected through CourseID and can be accessed by queries, forms, and reports.</desc>
-  <defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0 0L0 6L9 3z" fill="#7c3aed"/></marker><style>.head{fill:#6d28d9}.cell{fill:#f5f3ff;stroke:#7c3aed;stroke-width:2}.t{font:700 17px Arial;fill:#fff}.v{font:15px Arial;fill:#3b0764}.l{stroke:#7c3aed;stroke-width:4;marker-end:url(#a)}</style></defs>
+  <defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0 0L0 6L9 3z" fill="#7c3aed"/></marker><style>.head{fill:#6d28d9}.cell{fill:#f5f3ff;stroke:#7c3aed;stroke-width:2}.t{font:700 20px Arial;fill:#fff}.v{font:16px Arial;fill:#3b0764}.l{stroke:#7c3aed;stroke-width:4;marker-end:url(#a)}</style></defs>
   <rect width="900" height="430" rx="20" fill="#fafafa"/><text x="450" y="38" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#172554">Relational Database and Its Objects</text>
   <rect x="55" y="80" width="260" height="50" rx="10" class="head"/><text x="185" y="112" text-anchor="middle" class="t">STUDENT table</text>
   <rect x="55" y="130" width="260" height="44" class="cell"/><text x="75" y="158" class="v">StudentID</text><text x="245" y="158" text-anchor="middle" class="v">PK</text>

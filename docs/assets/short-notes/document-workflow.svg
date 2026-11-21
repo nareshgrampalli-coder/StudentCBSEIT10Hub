@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" role="img" aria-labelledby="title desc">
   <title id="title">Digital document workflow</title>
   <desc id="desc">A document moves through planning, creation, styling, review, finalization, and publishing.</desc>
-  <defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0 0L0 6L9 3z" fill="#2563eb"/></marker><style>.b{fill:#eff6ff;stroke:#2563eb;stroke-width:3}.t{font:700 16px Arial;fill:#1e3a8a}.s{font:13px Arial;fill:#475569}.l{stroke:#2563eb;stroke-width:4;marker-end:url(#a)}</style></defs>
+  <defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0 0L0 6L9 3z" fill="#2563eb"/></marker><style>.b{fill:#eff6ff;stroke:#2563eb;stroke-width:3}.t{font:700 18px Arial;fill:#1e3a8a}.s{font:14px Arial;fill:#475569}.l{stroke:#2563eb;stroke-width:4;marker-end:url(#a)}</style></defs>
   <rect width="900" height="400" rx="20" fill="#f8fafc"/><text x="450" y="38" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#172554">Digital Documentation Workflow</text>
   <rect x="25" y="90" width="125" height="70" rx="14" class="b"/><text x="87" y="119" text-anchor="middle" class="t">Plan</text><text x="87" y="141" text-anchor="middle" class="s">purpose • audience</text>
   <rect x="175" y="90" width="125" height="70" rx="14" class="b"/><text x="237" y="119" text-anchor="middle" class="t">Create</text><text x="237" y="141" text-anchor="middle" class="s">text • images</text>

@@ -8,6 +8,11 @@ Remote: https://studentcbseit10hub.vercel.app/
 
 GitHub Pages deployment is also available from the repository's Pages environment after the deployment workflow succeeds.
 
+### Enable GitHub Pages
+
+In the GitHub repository, open **Settings > Pages** and set **Build and deployment** to **GitHub Actions**.
+After saving the setting, re-run the latest **Deploy GitHub Pages** workflow.
+
 ## Run Locally
 
 ### Requirements

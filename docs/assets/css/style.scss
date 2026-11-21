@@ -22,6 +22,7 @@ th {
   background: #edf5fa;
   color: #15547a;
   font-weight: 700;
+  white-space: nowrap;
 }
 
 tbody tr:nth-child(even) {
@@ -30,6 +31,16 @@ tbody tr:nth-child(even) {
 
 tbody tr:hover {
   background: #eef7f2;
+}
+
+.study-home table {
+  display: block;
+  overflow-x: auto;
+}
+
+.study-home th,
+.study-home td {
+  white-space: nowrap;
 }
 
 .answer-toggle {

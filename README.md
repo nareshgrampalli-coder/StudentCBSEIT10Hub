@@ -6,7 +6,12 @@ CBSE Class 10 Information Technology (Code 402) study modules for employability 
 
 Remote: https://studentcbseit10hub.vercel.app/
 
-GitHub Pages deployment is also available from the repository's Pages environment after the deployment workflow succeeds.
+GitHub Pages deployment is also available after the deployment workflow succeeds. To enable it:
+
+1. In the repository's **Settings → Pages**, under **Build and deployment**, select **GitHub Actions** as the source.
+2. Run the **Deploy GitHub Pages** workflow from the **Actions** tab, or rerun a failed deployment.
+
+Pages must be enabled before the workflow runs; otherwise, the **Setup Pages** step can fail with `Get Pages site failed` and a `Not Found` error.
 
 ## Run Locally
 

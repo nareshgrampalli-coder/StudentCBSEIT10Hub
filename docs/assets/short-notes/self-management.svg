@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 390" role="img" aria-labelledby="title desc">
+  <title id="title">Self-management improvement cycle</title>
+  <desc id="desc">Self-awareness, SMART goals, planning, action, and review form an improvement cycle.</desc>
+  <defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0 0L0 6L9 3z" fill="#7c3aed"/></marker><style>.b{fill:#f5f3ff;stroke:#7c3aed;stroke-width:3}.t{font:700 17px Arial;fill:#3b0764}.s{font:13px Arial;fill:#475569}.l{stroke:#7c3aed;stroke-width:4;fill:none;marker-end:url(#a)}</style></defs>
+  <rect width="900" height="390" rx="20" fill="#fafafa"/>
+  <text x="450" y="38" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#172554">Self-Management Improvement Cycle</text>
+  <circle cx="450" cy="205" r="72" fill="#ede9fe" stroke="#7c3aed" stroke-width="4"/><text x="450" y="198" text-anchor="middle" class="t">Reflect</text><text x="450" y="222" text-anchor="middle" class="s">&amp; improve</text>
+  <rect x="38" y="80" width="170" height="68" rx="14" class="b"/><text x="123" y="108" text-anchor="middle" class="t">Self-awareness</text><text x="123" y="130" text-anchor="middle" class="s">strengths • emotions</text>
+  <rect x="255" y="80" width="170" height="68" rx="14" class="b"/><text x="340" y="108" text-anchor="middle" class="t">SMART goals</text><text x="340" y="130" text-anchor="middle" class="s">clear • measurable</text>
+  <rect x="475" y="80" width="170" height="68" rx="14" class="b"/><text x="560" y="108" text-anchor="middle" class="t">Plan</text><text x="560" y="130" text-anchor="middle" class="s">tasks • time</text>
+  <rect x="692" y="80" width="170" height="68" rx="14" class="b"/><text x="777" y="108" text-anchor="middle" class="t">Action</text><text x="777" y="130" text-anchor="middle" class="s">focus • persist</text>
+  <path d="M208 114H248M425 114H468M645 114H685M777 148C730 270 620 320 505 250M410 270C290 335 165 260 123 155" class="l"/>
+  <rect x="275" y="300" width="350" height="52" rx="26" fill="#dcfce7" stroke="#16a34a" stroke-width="3"/>
+  <text x="450" y="332" text-anchor="middle" class="t" fill="#14532d">Review results → Manage stress → Adjust plan</text>
+</svg>

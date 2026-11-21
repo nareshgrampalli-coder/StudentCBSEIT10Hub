@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 430" role="img" aria-labelledby="title desc">
+  <title id="title">Relational database model</title>
+  <desc id="desc">Student and Course tables are connected through CourseID and can be accessed by queries, forms, and reports.</desc>
+  <defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0 0L0 6L9 3z" fill="#7c3aed"/></marker><style>.head{fill:#6d28d9}.cell{fill:#f5f3ff;stroke:#7c3aed;stroke-width:2}.t{font:700 17px Arial;fill:#fff}.v{font:15px Arial;fill:#3b0764}.l{stroke:#7c3aed;stroke-width:4;marker-end:url(#a)}</style></defs>
+  <rect width="900" height="430" rx="20" fill="#fafafa"/><text x="450" y="38" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#172554">Relational Database and Its Objects</text>
+  <rect x="55" y="80" width="260" height="50" rx="10" class="head"/><text x="185" y="112" text-anchor="middle" class="t">STUDENT table</text>
+  <rect x="55" y="130" width="260" height="44" class="cell"/><text x="75" y="158" class="v">StudentID</text><text x="245" y="158" text-anchor="middle" class="v">PK</text>
+  <rect x="55" y="174" width="260" height="44" class="cell"/><text x="75" y="202" class="v">StudentName</text><text x="245" y="202" text-anchor="middle" class="v">Text</text>
+  <rect x="55" y="218" width="260" height="44" class="cell"/><text x="75" y="246" class="v">CourseID</text><text x="245" y="246" text-anchor="middle" class="v">FK</text>
+  <rect x="585" y="80" width="260" height="50" rx="10" class="head"/><text x="715" y="112" text-anchor="middle" class="t">COURSE table</text>
+  <rect x="585" y="130" width="260" height="44" class="cell"/><text x="605" y="158" class="v">CourseID</text><text x="775" y="158" text-anchor="middle" class="v">PK</text>
+  <rect x="585" y="174" width="260" height="44" class="cell"/><text x="605" y="202" class="v">CourseName</text><text x="775" y="202" text-anchor="middle" class="v">Text</text>
+  <rect x="585" y="218" width="260" height="44" class="cell"/><text x="605" y="246" class="v">Credits</text><text x="775" y="246" text-anchor="middle" class="v">Number</text>
+  <path d="M315 240H575" class="l"/><text x="445" y="225" text-anchor="middle" class="v">Foreign key links to Primary key</text>
+  <rect x="85" y="320" width="155" height="62" rx="14" fill="#ede9fe" stroke="#7c3aed" stroke-width="3"/><text x="162" y="358" text-anchor="middle" class="v">Query: retrieve/filter</text>
+  <rect x="372" y="320" width="155" height="62" rx="14" fill="#ede9fe" stroke="#7c3aed" stroke-width="3"/><text x="449" y="358" text-anchor="middle" class="v">Form: enter/view</text>
+  <rect x="660" y="320" width="155" height="62" rx="14" fill="#ede9fe" stroke="#7c3aed" stroke-width="3"/><text x="737" y="358" text-anchor="middle" class="v">Report: present/print</text>
+  <path d="M185 262V312M715 262V312M162 320L360 262M527 320V278M660 320L565 262" class="l"/>
+</svg>

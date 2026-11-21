@@ -17,9 +17,7 @@ permalink: /modules/part-b-subject-specific-skills-short-notes.html
 
 Digital documentation is the planned creation, editing, formatting, reviewing, and sharing of electronic documents using a word processor such as LibreOffice Writer.
 
-```text
-Plan -> Create -> Format -> Review -> Finalize -> Share/Publish
-```
+![Digital documentation workflow from planning to publishing with style-based structure](../assets/short-notes/document-workflow.svg)
 
 ### Styles
 
@@ -103,9 +101,7 @@ A **template** is a reusable starting document containing layout, styles, text, 
 
 A spreadsheet organizes data in cells and supports calculations, analysis, decision-making, and charts.
 
-```text
-Raw data -> Clean structure -> Formula/Analysis -> Result -> Decision
-```
+![Spreadsheet analysis flow from regional data through consolidation and tools to a decision](../assets/short-notes/spreadsheet-analysis.svg)
 
 ### Data consolidation
 
@@ -184,11 +180,7 @@ A registered data source can connect Calc to external database data for analysis
 
 A database stores related data in an organized form. A **DBMS** provides tools to define structures, enter and update data, retrieve information, enforce rules, and protect data.
 
-```text
-Application/User -> DBMS -> Database tables -> Storage
-                       |
-                  Security and rules
-```
+![Relational database model connecting Student and Course tables with database objects](../assets/short-notes/database-model.svg)
 
 ### Data and information
 
@@ -283,9 +275,7 @@ ORDER BY Marks DESC;
 
 A healthy workplace protects people, equipment, data, and the surrounding environment. Safety requires both formal rules and careful daily behaviour.
 
-```text
-Identify hazard -> Assess risk -> Control hazard -> Report -> Review
-```
+![Workplace safety cycle, ergonomic workstation, and emergency response](../assets/short-notes/workplace-safety.svg)
 
 ### Health, safety, and security policy
 

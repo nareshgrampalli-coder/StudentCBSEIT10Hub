@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" role="img" aria-labelledby="title desc">
+  <title id="title">Communication cycle</title>
+  <desc id="desc">Sender encodes a message, sends it through a channel, and the receiver decodes it and gives feedback.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#2563eb"/></marker>
+    <style>
+      .box{fill:#eff6ff;stroke:#2563eb;stroke-width:3}.label{font:700 18px Arial,sans-serif;fill:#172554}.sub{font:14px Arial,sans-serif;fill:#334155}.line{stroke:#2563eb;stroke-width:4;marker-end:url(#arrow)}
+    </style>
+  </defs>
+  <rect width="900" height="360" rx="20" fill="#f8fafc"/>
+  <text x="450" y="38" text-anchor="middle" class="label" font-size="24">How Meaning Travels</text>
+  <rect x="42" y="92" width="135" height="72" rx="16" class="box"/><text x="109" y="123" text-anchor="middle" class="label">Sender</text><text x="109" y="145" text-anchor="middle" class="sub">has an idea</text>
+  <rect x="235" y="92" width="135" height="72" rx="16" class="box"/><text x="302" y="123" text-anchor="middle" class="label">Encoding</text><text x="302" y="145" text-anchor="middle" class="sub">selects words/signs</text>
+  <rect x="428" y="92" width="135" height="72" rx="16" class="box"/><text x="495" y="123" text-anchor="middle" class="label">Channel</text><text x="495" y="145" text-anchor="middle" class="sub">speech, text, image</text>
+  <rect x="621" y="92" width="135" height="72" rx="16" class="box"/><text x="688" y="123" text-anchor="middle" class="label">Receiver</text><text x="688" y="145" text-anchor="middle" class="sub">decodes meaning</text>
+  <path d="M177 128 H228 M370 128 H421 M563 128 H614" class="line"/>
+  <path d="M688 176 V235 H109 V176" fill="none" class="line"/>
+  <rect x="338" y="220" width="220" height="62" rx="30" fill="#dcfce7" stroke="#16a34a" stroke-width="3"/>
+  <text x="448" y="246" text-anchor="middle" class="label">Feedback</text><text x="448" y="267" text-anchor="middle" class="sub">response confirms understanding</text>
+</svg>

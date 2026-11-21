@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 390" role="img" aria-labelledby="title desc">
+  <title id="title">Entrepreneurship cycle</title>
+  <desc id="desc">Customer need leads to an idea, planning, resources, launch, feedback, and business improvement.</desc>
+  <defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0 0L0 6L9 3z" fill="#ea580c"/></marker><style>.b{fill:#fff7ed;stroke:#ea580c;stroke-width:3}.t{font:700 16px Arial;fill:#7c2d12}.s{font:12px Arial;fill:#475569}.l{stroke:#ea580c;stroke-width:4;fill:none;marker-end:url(#a)}</style></defs>
+  <rect width="900" height="390" rx="20" fill="#fffbeb"/><text x="450" y="38" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#7c2d12">From Customer Need to Enterprise Growth</text>
+  <rect x="30" y="90" width="130" height="68" rx="14" class="b"/><text x="95" y="118" text-anchor="middle" class="t">Customer need</text><text x="95" y="140" text-anchor="middle" class="s">problem to solve</text>
+  <rect x="195" y="90" width="130" height="68" rx="14" class="b"/><text x="260" y="118" text-anchor="middle" class="t">Idea</text><text x="260" y="140" text-anchor="middle" class="s">useful solution</text>
+  <rect x="360" y="90" width="130" height="68" rx="14" class="b"/><text x="425" y="118" text-anchor="middle" class="t">Business plan</text><text x="425" y="140" text-anchor="middle" class="s">cost • market</text>
+  <rect x="525" y="90" width="130" height="68" rx="14" class="b"/><text x="590" y="118" text-anchor="middle" class="t">Resources</text><text x="590" y="140" text-anchor="middle" class="s">money • people</text>
+  <rect x="690" y="90" width="165" height="68" rx="14" class="b"/><text x="772" y="118" text-anchor="middle" class="t">Launch &amp; sell</text><text x="772" y="140" text-anchor="middle" class="s">produce • promote</text>
+  <path d="M160 124H188M325 124H353M490 124H518M655 124H683M772 158V240H425V158" class="l"/>
+  <rect x="330" y="240" width="190" height="68" rx="14" fill="#dcfce7" stroke="#16a34a" stroke-width="3"/><text x="425" y="268" text-anchor="middle" class="t">Feedback &amp; growth</text><text x="425" y="290" text-anchor="middle" class="s">measure • improve • scale</text>
+  <path d="M330 274H95V165" class="l"/>
+</svg>

@@ -20,11 +20,7 @@ Communication is the purposeful exchange of ideas, information, feelings, or ins
 
 ### Communication cycle
 
-```text
-Sender -> Encoding -> Message -> Channel -> Decoding -> Receiver
-   ^                                                    |
-   +---------------------- Feedback <-------------------+
-```
+![Communication cycle showing sender, encoding, channel, receiver, and feedback](../assets/short-notes/communication-cycle.svg)
 
 - **Sender:** Creates the idea and sends the message.
 - **Encoding:** Converts the idea into words, signs, sounds, or symbols.
@@ -96,11 +92,7 @@ Important parts of speech include **noun, pronoun, adjective, verb, adverb, prep
 
 Self-management is the ability to regulate emotions, behaviour, effort, and time while working towards personal and professional goals.
 
-```text
-Self-awareness -> Goal setting -> Planning -> Action -> Review
-       ^                                             |
-       +---------------- Self-improvement <----------+
-```
+![Self-management cycle showing self-awareness, SMART goals, planning, action, and review](../assets/short-notes/self-management.svg)
 
 ### Self-awareness
 
@@ -172,11 +164,7 @@ An important decision is to distinguish:
 
 **ICT (Information and Communication Technology)** includes devices, software, networks, and services used to create, store, process, transmit, and exchange information.
 
-```text
-Input -> Processing -> Output
-          |
-       Storage
-```
+![Computer system diagram showing input, processing, storage, output, security, and backups](../assets/short-notes/computer-flow.svg)
 
 ### Computer system
 
@@ -240,9 +228,7 @@ Safe practices:
 
 **Entrepreneurship** is the process of identifying an opportunity, organizing resources, developing a solution, accepting reasonable risk, and operating an enterprise.
 
-```text
-Opportunity -> Idea -> Plan -> Resources -> Action -> Feedback -> Growth
-```
+![Entrepreneurship cycle from customer need to feedback and business growth](../assets/short-notes/entrepreneurship-cycle.svg)
 
 ### Entrepreneur and enterprise
 
@@ -294,12 +280,7 @@ The entrepreneur studies the market, estimates costs, arranges finance, manages 
 
 **Sustainable development** meets current human needs without damaging the ability of future generations to meet theirs.
 
-```text
-         Environment
-              /\
-             /  \
-      Society -- Economy
-```
+![Sustainability diagram balancing environment, society, and economy with the waste hierarchy](../assets/short-notes/sustainability.svg)
 
 Sustainability requires all three areas to remain in balance. Economic development without environmental and social responsibility is not sustainable.
 

@@ -33,14 +33,29 @@ tbody tr:hover {
   background: #eef7f2;
 }
 
-.study-home table {
-  display: block;
-  overflow-x: auto;
+.study-home th,
+.study-home a {
+  white-space: nowrap;
 }
 
-.study-home th,
-.study-home td {
-  white-space: nowrap;
+@media (max-width: 768px) {
+  .study-home {
+    th,
+    td {
+      padding: 0.45rem;
+      font-size: 0.8rem;
+    }
+  }
+}
+
+@media (max-width: 480px) {
+  .study-home {
+    th,
+    td {
+      padding: 0.35rem 0.25rem;
+      font-size: 0.72rem;
+    }
+  }
 }
 
 .answer-toggle {

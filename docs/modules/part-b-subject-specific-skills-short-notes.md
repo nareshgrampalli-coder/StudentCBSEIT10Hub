@@ -4,7 +4,7 @@ title: Part B Subject Specific Skills Short Notes
 permalink: /modules/part-b-subject-specific-skills-short-notes.html
 ---
 
-# **Part B: Subject Specific Skills — Short Notes**
+# **Part B: Subject Specific Skills — Concept Notes**
 
 ## <u>Quick Index</u>
 
@@ -15,164 +15,254 @@ permalink: /modules/part-b-subject-specific-skills-short-notes.html
 
 ## <u>Unit 1: Digital Documentation</u>
 
-### 1. What are styles in LibreOffice Writer?
+Digital documentation is the planned creation, editing, formatting, reviewing, and sharing of electronic documents using a word processor such as LibreOffice Writer.
 
-**Answer:**
+```text
+Plan -> Create -> Format -> Review -> Finalize -> Share/Publish
+```
 
-A **style** is a saved set of formatting properties. It makes formatting consistent and allows many paragraphs or objects to be updated together. Writer provides paragraph, character, frame, page, list, and table styles.
+### Styles
 
-The Fill Format tool copies a selected style onto text or objects. Custom styles can be created, modified, and loaded from templates.
+A **style** stores a reusable group of formatting properties. Changing the style updates every element that uses it, unlike manual formatting.
 
-### 2. How can images be inserted and edited in Writer?
+| Style category | Controls |
+|---|---|
+| **Paragraph** | Alignment, spacing, indentation, borders, tabs |
+| **Character** | Font, size, colour, emphasis |
+| **Page** | Margins, page size, header, footer, columns |
+| **Frame** | Position and formatting of text frames |
+| **List** | Bullet and numbering appearance |
+| **Table** | Borders, background, alignment, and text layout |
 
-**Answer:**
+Writer's Fill Format tool applies an existing style to selected content. A custom style can be created from selected formatting or modified to match house standards.
 
-Images may be inserted from a file, copied and pasted, dragged into the document, or inserted as a linked image. A linked image keeps a connection with the source file; an embedded image is stored inside the document.
+```text
+Change style definition
+          |
+          v
+All linked paragraphs update consistently
+```
 
-Image tools can:
+### Images and drawing objects
 
-- Resize or crop an image.
-- Apply graphic filters.
-- Change brightness, contrast, or transparency.
-- Align, arrange, group, anchor, and wrap text around objects.
+Images may be inserted from a file, copied, dragged into a document, or linked to an external file.
 
-### 3. What do anchoring and text wrapping control?
+- **Embedded image:** Stored within the document.
+- **Linked image:** Uses an external image file, so the source and document should be kept together when moved.
 
-**Answer:**
+Important operations:
 
-- **Anchoring:** Attaches an image to a page, paragraph, character, or frame.
-- **Wrapping:** Controls how text flows around the image, such as no wrap, wrap left or right, optimal, or through.
+| Operation | Meaning |
+|---|---|
+| **Resize** | Changes displayed dimensions. |
+| **Crop** | Hides unwanted outer portions without necessarily changing the original image file. |
+| **Filter** | Changes visual properties such as colour, blur, or sharpening. |
+| **Arrange** | Controls front-to-back order. |
+| **Group** | Treats several selected objects as one unit for movement or resizing. |
 
-Anchoring determines what the object follows, while wrapping determines how nearby text behaves.
+### Anchoring and wrapping
 
-### 4. What is a Table of Contents (TOC)?
+**Anchoring** attaches an object to a document reference:
 
-**Answer:**
+```text
+Anchor target
+   ├── Page
+   ├── Paragraph
+   ├── Character
+   └── Frame
+```
 
-A **Table of Contents** is an automatically generated list of headings and page numbers. Its correctness depends on using heading styles consistently and a logical heading hierarchy. Update the TOC after changing headings or page positions.
+**Text wrapping** controls how text flows around the object. For example, text can wrap around an image, remain above and below it, or pass in a selected direction.
 
-### 5. What are templates?
+Anchor controls what the object follows; wrap controls how surrounding text behaves.
 
-**Answer:**
+### Table of contents and headings
 
-A **template** is a ready-made document containing common styles, layout, text, or design elements. It saves time, maintains standard formatting, and reduces repeated work.
+A **Table of Contents (TOC)** is generated from heading styles. A logical hierarchy is essential:
 
-### 6. What are Track Changes and document comparison?
+```text
+Heading 1: Main chapter
+  Heading 2: Section
+    Heading 3: Subtopic
+```
 
-**Answer:**
+Avoid manually making text look like a heading. Applying actual heading styles allows Writer to create and update the TOC automatically.
 
-- **Track Changes:** Records insertions, deletions, and formatting changes so they can be reviewed and then accepted or rejected.
-- **Compare Documents:** Finds and marks differences between two versions of a document, often the original and a revised copy.
+### Templates and review
+
+A **template** is a reusable starting document containing layout, styles, text, and sometimes placeholders. It saves time and enforces a consistent appearance.
+
+- **Track Changes:** Records additions, deletions, and formatting for review.
+- **Accept/Reject:** Finalizes individual or grouped tracked changes.
+- **Compare Documents:** Shows differences between an original and a revised version.
+- **Comments:** Add reviewer questions or explanations without changing document content.
+
+---
 
 ## <u>Unit 2: Electronic Spreadsheet</u>
 
-### 7. What is data consolidation?
+A spreadsheet organizes data in cells and supports calculations, analysis, decision-making, and charts.
 
-**Answer:**
+```text
+Raw data -> Clean structure -> Formula/Analysis -> Result -> Decision
+```
 
-**Consolidation** combines data from several ranges, sheets, or files into one summary using operations such as sum, average, count, maximum, or minimum. Source ranges should have matching labels and a compatible structure.
+### Data consolidation
 
-### 8. What are subtotals, groups, and outlines?
+**Consolidation** combines values from several ranges, worksheets, or files into one summary. Operations may include sum, average, count, maximum, or minimum.
 
-**Answer:**
+```text
+North sales + South sales + West sales
+                  |
+                  v
+           Total sales sheet
+```
 
-- **Subtotal:** Groups sorted records and calculates a summary value for each group.
-- **Group and Outline:** Shows or hides rows and columns to collapse detail and focus on totals.
+The source ranges should use compatible labels and organization. The consolidated result changes when the sources change only if links are enabled appropriately.
 
-### 9. How are scenarios, multiple operations, and Goal Seek used?
+### Subtotals, grouping, and outlines
 
-**Answer:**
+**Subtotals** calculate summary values for sorted groups. For example, records sorted by Department can produce a total sales value for each department and a grand total.
 
-- **Scenario:** Stores a set of alternative values so different possible outcomes can be compared.
-- **Multiple Operations:** Calculates results for different combinations of one or two input values.
-- **Goal Seek:** Finds the input value needed to make a formula return a required result.
+```text
+Department A
+  Record 1
+  Record 2
+  Subtotal A
+Department B
+  Record 3
+  Subtotal B
+Grand Total
+```
 
-Goal Seek is useful when the desired result is known but the input is not.
+**Grouping and outlining** hide or reveal levels of rows and columns. They improve readability without deleting detailed data.
 
-### 10. What is a macro in Calc?
+### What-if analysis
 
-**Answer:**
+```text
+Changed input -> Calculation -> Changed result
+```
 
-A **macro** is a recorded or written sequence of commands used to automate repeated work. Macros can be recorded from the Tools menu and later run, edited, assigned to events, or called as functions. Use macros from trusted sources because they can execute code.
+| Tool | Purpose |
+|---|---|
+| **Scenario** | Stores different sets of input values for comparison. |
+| **Multiple Operations** | Shows the effect of one or two changing variables on a formula. |
+| **Goal Seek** | Finds the input value needed to produce a desired formula result. |
 
-### 11. What is the difference between a relative and an absolute hyperlink?
+Example: if a profit formula depends on units sold, Goal Seek can determine the number of units required to obtain a target profit.
 
-**Answer:**
+### Macros
 
-- **Relative hyperlink:** Refers to a target relative to the current document's location; moving linked files together normally preserves the connection.
-- **Absolute hyperlink:** Contains the complete path or URL; it points to a fixed location.
+A **macro** is a recorded or programmed sequence of instructions used to automate repeated work. It can format cells, enter data, or perform a set of operations.
 
-Links may point to a sheet, cell, file, web page, or email address.
+```text
+Repeated manual steps -> Record macro -> Run one command
+```
 
-### 12. How do sharing and reviewing features work?
+Macros may contain executable code. Therefore, enable and run macros only from trusted documents.
 
-**Answer:**
+### Hyperlinks and data linking
 
-**Track Changes** records edits and can compare the original with a reviewed copy. Reviewers may accept or reject each change. **Comments** add explanations or questions without changing cell values. Registered data sources can connect a spreadsheet to external database data.
+A hyperlink connects a cell or text to:
+
+- Another worksheet or cell.
+- A file or folder.
+- A web page.
+- An email address.
+
+A **relative link** stores the path relative to the current document, while an **absolute link** contains a complete path or URL. Relative linking is useful when a group of files is moved together while preserving the same folder structure.
+
+### Sharing and review
+
+**Track Changes** records who made which modification. Reviewers can accept or reject changes. **Comments** are explanatory notes attached to cells and do not normally alter the cell value.
+
+A registered data source can connect Calc to external database data for analysis and reporting.
+
+---
 
 ## <u>Unit 3: Database Management System</u>
 
-### 13. How are data, information, database, and DBMS related?
+A database stores related data in an organized form. A **DBMS** provides tools to define structures, enter and update data, retrieve information, enforce rules, and protect data.
 
-**Answer:**
+```text
+Application/User -> DBMS -> Database tables -> Storage
+                       |
+                  Security and rules
+```
 
-- **Data:** Raw facts, such as names and marks.
-- **Information:** Data processed and presented meaningfully, such as a report card.
-- **Database:** An organized collection of related data.
-- **DBMS:** Software that creates, stores, secures, retrieves, and manages databases.
+### Data and information
 
-### 14. What are fields, records, tables, and keys?
+- **Data:** Unprocessed facts, such as `Asha`, `18`, and `92`.
+- **Information:** Data organized to provide meaning, such as “Asha scored 92 out of 100.”
+- **Database:** Organized collection of related data.
+- **DBMS:** Software that manages the database.
 
-**Answer:**
+```text
+Raw data + Context + Processing = Information
+```
 
-- **Field/attribute:** One item of information, such as StudentName.
-- **Record/row:** One complete set of related field values.
-- **Table:** A collection of records with the same fields.
-- **Primary key:** A field or combination of fields that uniquely identifies each record.
-- **Foreign key:** A field in one table that refers to a primary key in another table.
-- **Candidate key:** A field or set of fields capable of uniquely identifying a record.
+### Relational model
 
-### 15. What is RDBMS and why are relationships useful?
+An **RDBMS** represents data as tables. Each table stores records for one type of entity.
 
-**Answer:**
+```text
+STUDENT                         COURSE
+StudentID (PK)                 CourseID (PK)
+Name                           CourseName
+CourseID (FK) ----------------> CourseID
+```
 
-An **RDBMS** stores related data in tables and uses relationships to connect them. Relationships reduce repeated data, improve consistency, and make updates easier. Common relationships are one-to-one, one-to-many, and many-to-many.
+- **Entity:** A real-world object, such as student, book, or product.
+- **Attribute/field:** One property, such as name or price.
+- **Record/row:** One complete entity instance.
+- **Table:** Collection of records with the same attributes.
 
-### 16. What data types are available in LibreOffice Base?
+### Keys and relationships
 
-**Answer:**
+| Key | Role |
+|---|---|
+| **Primary key** | Uniquely identifies each record in a table. |
+| **Candidate key** | Any field or field combination that could uniquely identify records. |
+| **Alternate key** | Candidate key not selected as the primary key. |
+| **Foreign key** | Refers to the primary key of a related table. |
 
-Common categories are:
+Relationships connect related tables and reduce duplication:
 
-- **Text:** CHAR, VARCHAR, and LONGVARCHAR.
-- **Numeric:** Integer, decimal, float, and double.
-- **Date/time:** Date, time, and timestamp.
-- **Currency:** Monetary values.
-- **Boolean:** Yes/no or true/false.
-- **Binary:** Images, files, or other binary data.
+```text
+One teacher <------> One staff account       (one-to-one)
+One class   <------> Many students          (one-to-many)
+Many students <----> Many activities        (many-to-many)
+```
 
-Choose a data type that matches the values and prevents invalid data.
+Many-to-many relationships are commonly represented using a connecting table.
 
-### 17. What are tables, queries, forms, and reports?
+### Data types
 
-**Answer:**
+| Category | Purpose |
+|---|---|
+| **Text** | Names, addresses, IDs, and descriptions |
+| **Numeric** | Values used in arithmetic |
+| **Date/time** | Dates, times, or timestamps |
+| **Currency** | Monetary values |
+| **Boolean** | True/false or yes/no |
+| **Binary** | Images or other binary files |
 
-- **Table:** Stores data in rows and columns.
-- **Query:** Retrieves, filters, sorts, calculates, or updates data according to conditions.
-- **Form:** Provides a user-friendly interface for entering and viewing records.
-- **Report:** Presents selected data in a formatted, printable summary.
+Using the correct data type prevents invalid values and makes sorting, searching, and calculations reliable.
 
-### 18. What basic SQL commands should a student know?
+### Database objects
 
-**Answer:**
+- **Table:** Stores records.
+- **Query:** Selects, filters, sorts, calculates, or updates data.
+- **Form:** Provides a user-friendly interface for working with records.
+- **Report:** Presents selected records in a formatted and printable layout.
 
-- `SELECT` retrieves fields.
-- `FROM` identifies the table.
-- `WHERE` filters rows.
-- `ORDER BY` sorts results.
-- `INSERT`, `UPDATE`, and `DELETE` change data.
+```text
+Table -> Query -> Form or Report -> User
+```
 
-Example:
+### Basic SQL idea
+
+SQL describes data to retrieve rather than how the DBMS should search for it.
 
 ```sql
 SELECT StudentName, Marks
@@ -181,65 +271,89 @@ WHERE Marks >= 50
 ORDER BY Marks DESC;
 ```
 
+- `SELECT` chooses fields.
+- `FROM` identifies the table.
+- `WHERE` filters records.
+- `ORDER BY` sorts the result.
+- `INSERT`, `UPDATE`, and `DELETE` modify records.
+
+---
+
 ## <u>Unit 4: Maintain a Healthy, Safe and Secure Working Environment</u>
 
-### 19. What is a workplace health, safety, and security policy?
+A healthy workplace protects people, equipment, data, and the surrounding environment. Safety requires both formal rules and careful daily behaviour.
 
-**Answer:**
+```text
+Identify hazard -> Assess risk -> Control hazard -> Report -> Review
+```
 
-It is a planned set of rules and responsibilities intended to protect employees, equipment, information, and visitors. It includes hazard identification, prevention, reporting, emergency procedures, training, and first aid.
+### Health, safety, and security policy
 
-### 20. What are workplace hazards?
+An organization policy states responsibilities, safety rules, reporting procedures, emergency arrangements, and training requirements.
 
-**Answer:**
+- **Health hazard:** May cause illness.
+- **Safety hazard:** May cause immediate injury or damage.
+- **Security risk:** May cause theft, unauthorized access, or loss.
+- **Emergency:** A serious situation needing immediate action.
 
-A **hazard** is anything with the potential to cause injury, illness, damage, or loss. Examples include:
+### Common workplace hazards
 
-- Exposed wires and overloaded sockets.
-- Slips, trips, spills, and blocked exits.
-- Poor lighting and ventilation.
-- Incorrect lifting or prolonged awkward posture.
-- Unsafe chemicals or fire risks.
-- Unauthorized access to systems and data.
+| Hazard | Example | Control |
+|---|---|---|
+| **Physical** | Noise, poor lighting, exposed cables | Maintenance, guards, warning signs |
+| **Electrical** | Damaged plug or overloaded socket | Switch off safely and report |
+| **Slips/trips** | Wet floor or trailing wire | Clean spills and organize cables |
+| **Ergonomic** | Awkward posture or repeated movement | Adjust workstation and take breaks |
+| **Fire** | Flammable material near heat | Storage, alarms, and safe evacuation |
+| **Information** | Weak password or unattended screen | Access control and screen locking |
 
-Report hazards promptly instead of ignoring them.
+### Ergonomics
 
-### 21. What is ergonomics?
+**Ergonomics** fits the workplace to the worker so that tasks can be completed safely and efficiently.
 
-**Answer:**
+```text
+Screen: top near eye level
+Back: supported by chair
+Forearms/wrists: relaxed and supported
+Feet: flat on floor or footrest
+Position: change regularly
+```
 
-**Ergonomics** designs the workplace, equipment, and tasks to fit the worker. Good ergonomics includes:
+Long periods in one posture can lead to muscle strain, back pain, wrist injury, or eye discomfort. Good practices include appropriate seating, neutral wrists, proper screen distance, reduced glare, and short regular breaks.
 
-- A screen at a comfortable height and viewing distance.
-- Feet supported and back supported by a chair.
-- Wrists in a neutral position while typing.
-- Good lighting without glare.
-- Regular movement and rest breaks.
+### Air, water, waste, and quality
 
-These practices help prevent eye strain and musculoskeletal or overuse injuries.
+Workplace quality includes clean drinking water, proper ventilation, controlled noise, suitable lighting, hygienic surroundings, and responsible waste disposal. Electrical waste, batteries, chemicals, and confidential paper need suitable separate handling.
 
-### 22. How should accidents and emergencies be handled?
+### Accident and emergency response
 
-**Answer:**
+```text
+Stay calm -> Warn others -> Protect from danger -> Contact help
+            -> Evacuate -> First aid -> Report -> Prevent recurrence
+```
 
-1. Stay calm and assess immediate danger.
-2. Raise the alarm and contact trained emergency help.
-3. Stop work and isolate the danger if it can be done safely.
-4. Give first aid only within your training.
-5. Evacuate using the marked route and assembly point.
-6. Never use lifts during a fire or re-enter until clearance is given.
-7. Record and report the incident.
+During an evacuation:
 
-### 23. What are fire-safety basics?
+1. Follow the alarm and trained wardens.
+2. Use marked escape routes and stairs.
+3. Do not collect belongings or use lifts during a fire.
+4. Move to the assembly point.
+5. Report missing persons.
+6. Return only after official clearance.
 
-**Answer:**
+### Fire extinguisher awareness
 
-Keep exits and fire equipment clear, switch off equipment when safe, and avoid overloaded electrical sockets. Use an extinguisher only when the fire is small, the correct extinguisher is available, and a safe exit remains behind you.
+An extinguisher works only when the correct type is selected and used by a trained person. The major extinguisher agents include water, foam, CO₂, dry powder, and wet chemical; each suits different fire types.
 
-Common extinguisher categories include **water, foam, CO₂, dry powder, and wet chemical**, but the correct type depends on the fire. Electricity-related fires require an extinguisher suitable for electrical risks.
+```text
+If the fire is unsafe or smoke is spreading:
+Raise alarm -> Evacuate -> Call emergency services
+```
 
-### 24. What is CPR?
+Do not fight a fire when an exit is not safely available, smoke prevents visibility, or the correct equipment and training are unavailable.
 
-**Answer:**
+### First aid and CPR
 
-**Cardiopulmonary resuscitation (CPR)** is an emergency procedure used to support a person in cardiac arrest. Check the surroundings, call emergency services, and seek trained help. A trained responder follows current CPR and automated external defibrillator (AED) guidance. In an untrained situation, emergency services can guide the initial steps.
+**First aid** is immediate assistance given until professional medical care arrives. First aiders should protect themselves, check danger, call emergency services, and provide only the care for which they are trained.
+
+**CPR (Cardiopulmonary Resuscitation)** supports a person whose heart and normal breathing have stopped. Its steps, compression rate, and AED use should follow current recognized training. In an emergency, call the local emergency service and follow trained dispatcher instructions.

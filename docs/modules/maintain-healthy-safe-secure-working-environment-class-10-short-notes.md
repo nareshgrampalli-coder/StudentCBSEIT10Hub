@@ -1,0 +1,92 @@
+---
+layout: default
+title: Healthy Safe and Secure Working Environment Class 10 Short Notes
+permalink: /modules/maintain-healthy-safe-secure-working-environment-class-10-short-notes.html
+---
+
+# **Healthy Safe and Secure Working Environment Class 10 Short Notes**
+
+[← All short notes](part-b-subject-specific-skills-short-notes.html) · [Open chapter questions](maintain-healthy-safe-secure-working-environment-class-10.html)
+
+## <u>Unit 4: Maintain a Healthy, Safe and Secure Working Environment</u>
+
+A healthy workplace protects people, equipment, data, and the surrounding environment. Safety requires both formal rules and careful daily behaviour.
+
+![Workplace safety cycle, ergonomic workstation, and emergency response](../assets/short-notes/workplace-safety.svg)
+
+<p align="center"><strong>Figure 4: Hazard-control cycle, ergonomic workstation, and emergency response</strong></p>
+
+### Health, safety, and security policy
+
+An organization policy states responsibilities, safety rules, reporting procedures, emergency arrangements, and training requirements.
+
+- **Health hazard:** May cause illness.
+- **Safety hazard:** May cause immediate injury or damage.
+- **Security risk:** May cause theft, unauthorized access, or loss.
+- **Emergency:** A serious situation needing immediate action.
+
+### Common workplace hazards
+
+| Hazard | Example | Control |
+|---|---|---|
+| **Physical** | Noise, poor lighting, exposed cables | Maintenance, guards, warning signs |
+| **Electrical** | Damaged plug or overloaded socket | Switch off safely and report |
+| **Slips/trips** | Wet floor or trailing wire | Clean spills and organize cables |
+| **Ergonomic** | Awkward posture or repeated movement | Adjust workstation and take breaks |
+| **Fire** | Flammable material near heat | Storage, alarms, and safe evacuation |
+| **Information** | Weak password or unattended screen | Access control and screen locking |
+
+### Ergonomics
+
+**Ergonomics** fits the workplace to the worker so that tasks can be completed safely and efficiently.
+
+```text
+Screen: top near eye level
+Back: supported by chair
+Forearms/wrists: relaxed and supported
+Feet: flat on floor or footrest
+Position: change regularly
+```
+
+Long periods in one posture can lead to muscle strain, back pain, wrist injury, or eye discomfort. Good practices include appropriate seating, neutral wrists, proper screen distance, reduced glare, and short regular breaks.
+
+> **Memory tip â€” SAFE workstation:** **S**creen at eye level, **A**ligned back and wrists, **F**eet supported, **E**xercise or take breaks.
+
+### Air, water, waste, and quality
+
+Workplace quality includes clean drinking water, proper ventilation, controlled noise, suitable lighting, hygienic surroundings, and responsible waste disposal. Electrical waste, batteries, chemicals, and confidential paper need suitable separate handling.
+
+### Accident and emergency response
+
+```text
+Stay calm -> Warn others -> Protect from danger -> Contact help
+            -> Evacuate -> First aid -> Report -> Prevent recurrence
+```
+
+During an evacuation:
+
+1. Follow the alarm and trained wardens.
+2. Use marked escape routes and stairs.
+3. Do not collect belongings or use lifts during a fire.
+4. Move to the assembly point.
+5. Report missing persons.
+6. Return only after official clearance.
+
+### Fire extinguisher awareness
+
+An extinguisher works only when the correct type is selected and used by a trained person. The major extinguisher agents include water, foam, COâ‚‚, dry powder, and wet chemical; each suits different fire types.
+
+```text
+If the fire is unsafe or smoke is spreading:
+Raise alarm -> Evacuate -> Call emergency services
+```
+
+Do not fight a fire when an exit is not safely available, smoke prevents visibility, or the correct equipment and training are unavailable.
+
+> **Memory tip â€” A-R-C:** **Alarm, Route, Contact help**. Raise the alarm, follow the safe route, and contact emergency services.
+
+### First aid and CPR
+
+**First aid** is immediate assistance given until professional medical care arrives. First aiders should protect themselves, check danger, call emergency services, and provide only the care for which they are trained.
+
+**CPR (Cardiopulmonary Resuscitation)** supports a person whose heart and normal breathing have stopped. Its steps, compression rate, and AED use should follow current recognized training. In an emergency, call the local emergency service and follow trained dispatcher instructions.

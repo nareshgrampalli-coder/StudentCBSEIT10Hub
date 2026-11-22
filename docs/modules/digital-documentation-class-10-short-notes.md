@@ -15,23 +15,54 @@ Digital documentation is the planned creation, editing, formatting, reviewing, a
 ### Board-Paper Q&A Focus
 
 1. **Which tool applies one style to several non-contiguous sections?**
-   Use **Fill Format** from the Styles panel.
+
+   **Answer:** Use **Fill Format** from the Styles panel.
+
+   It copies the selected style to different locations without requiring the user to repeat the same formatting manually.
+
 2. **Which style category controls margins, headers, footers, and page layout?**
-   **Page Style**.
+
+   **Answer:** **Page Style**.
+
 3. **How many heading levels does LibreOffice Writer support?**
-   Writer supports **10 heading levels**.
+
+   **Answer:** Writer supports **10 heading levels**.
+
 4. **What is anchoring?**
-   Anchoring fixes an image or drawing object's reference point to a **page, paragraph, character, or frame**. Do not confuse it with text wrapping.
+
+   **Answer:** Anchoring fixes an image or drawing object's reference point to a **page, paragraph, character, or frame**.
+
+   **Explanation:** Anchoring answers “What should the object follow?” Wrapping answers “How should nearby text flow around it?”
+
 5. **Which image tool produces grayscale, black-and-white, or watermark appearance?**
-   **Image Mode**.
+
+   **Answer:** **Image Mode**.
+
 6. **How is a style different from a template?**
-   A **style** stores reusable formatting for content, while a **template** provides a reusable starting document containing layout, styles, text, or placeholders.
+
+   **Answer:** A **style** stores reusable formatting for content, while a **template** provides a reusable starting document containing layout, styles, text, or placeholders.
+
+   **Example:** A Heading 1 style formats titles; a project-report template supplies the document's full starting structure.
+
 7. **What produces a contents list from document headings?**
-   Insert a **Table of Contents (TOC)** after applying real heading styles. Update the TOC after the headings change.
+
+   **Answer:** Insert a **Table of Contents (TOC)** after applying real heading styles.
+
+   Manual bold or enlarged text is not enough. Update the TOC whenever headings or page positions change.
+
 8. **What is mail merge?**
-   It combines one main document with a data source to create personalized copies. It saves repeated typing and reduces copying errors.
+
+   **Answer:** It combines one main document with a data source to create personalized copies.
+
+   **Example:** One invitation letter plus a table of names and addresses creates a personalized copy for each recipient.
+
 9. **How are documents reviewed?**
-   Use **Track Changes**, comments, and **Accept/Reject**. Track Changes records who changed the document; comments do not directly change the content.
+
+   **Answer:** Use **Track Changes**, comments, and **Accept/Reject**.
+
+   Track Changes records edits for review; comments explain or question content without directly replacing it.
+
+> **Memory tip — A-W:** **Anchor** fixes the reference; **Wrap** controls surrounding text.
 
 ![Digital documentation workflow from planning to publishing with style-based structure](../assets/short-notes/document-workflow.svg)
 

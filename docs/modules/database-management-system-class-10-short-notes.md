@@ -15,24 +15,48 @@ A database stores related data in an organized form. A **DBMS** provides tools t
 ### Board-Paper Q&A Focus
 
 1. **What is the role of each main database object?**
+
+   **Answer:**
+
    - **Table:** Stores records.
    - **Query:** Retrieves, filters, sorts, calculates, or modifies data.
    - **Form:** Provides a user-friendly interface for viewing and entering records.
    - **Report:** Presents selected or summarized data in a printable layout.
 2. **What is a primary key, candidate key, and alternate key?**
-   A **primary key** uniquely identifies each record. Any field or combination that could do so is a **candidate key**; a candidate key not selected as the primary key is an **alternate key**.
+
+   **Answer:** A **primary key** uniquely identifies each record. Any field or combination that could do so is a **candidate key**; a candidate key not selected as the primary key is an **alternate key**.
+
+   **Example:** `StudentID` may be selected as the primary key, while a unique `AdmissionNumber` remains an alternate key.
+
 3. **What is a foreign key?**
-   A field in one table that refers to the primary key of another table, creating a relationship.
+
+   **Answer:** A field in one table that refers to the primary key of another table, creating a relationship.
+
 4. **What is referential integrity?**
-   A rule that prevents a foreign-key value from referring to a missing parent record. It avoids records with invalid references.
+
+   **Answer:** A rule that prevents a foreign-key value from referring to a missing parent record.
+
+   **Example:** An order cannot use `CustomerID = 50` if customer 50 does not exist in the Customer table.
+
 5. **What is a one-to-many relationship?**
-   One parent record can relate to many child records, but each child belongs to one parent—for example, one book and its many issue records.
+
+   **Answer:** One parent record can relate to many child records, but each child belongs to one parent.
+
+   **Example:** One class has many students; each student belongs to one class.
+
 6. **What do Update Cascade and Delete Cascade do?**
-   **Update Cascade** changes matching foreign keys when the parent key changes. **Delete Cascade** deletes matching child records when the parent record is deleted.
+
+   **Answer:** **Update Cascade** changes matching foreign keys when the parent key changes. **Delete Cascade** deletes matching child records when the parent record is deleted.
+
 7. **Which data types are commonly selected in Base?**
-   Use a suitable **numeric** type for age or quantity, **text** for names, **date/time** for dates, **boolean** for yes/no, and a binary image/blob type for photos.
+
+   **Answer:** Use **numeric** for age or quantity, **text** for names, **date/time** for dates, **boolean** for yes/no, and an image/blob type for photos.
+
+   Choosing the correct type prevents unsuitable values and enables correct sorting and calculations.
+
 8. **How are common SQL clauses used?**
-   `SELECT` chooses fields, `FROM` names the table, `WHERE` filters records, and `ORDER BY` sorts results.
+
+   **Answer:** `SELECT` chooses fields, `FROM` names the table, `WHERE` filters records, and `ORDER BY` sorts results.
 
 ```sql
 SELECT StudentName, Marks
@@ -42,9 +66,22 @@ ORDER BY Marks DESC;
 ```
 
 9. **Why use forms and reports?**
-   A form simplifies data entry and modification. A report produces a formatted, readable, and printable view; a dynamic report changes when its underlying data changes.
+
+   **Answer:** A form simplifies data entry and modification. A report produces a formatted, readable, and printable view; a dynamic report changes when its underlying data changes.
+
 10. **How is the current date and time placed in a report?**
-    Insert **Date and Time** from the report's Insert tools, or the date/time field controls available in the report designer.
+
+    **Answer:** Insert **Date and Time** from the report's Insert tools or use the date/time field controls available in the report designer.
+
+```text
+Primary key (parent table)
+          |
+          +---> Foreign key (child table)
+          |          |
+Referential integrity protects the connection
+```
+
+> **Memory tip — TQFR:** **T**able stores, **Q**uery finds, **F**orm enters, **R**eport presents.
 
 ![Relational database model connecting Student and Course tables with database objects](../assets/short-notes/database-model.svg)
 

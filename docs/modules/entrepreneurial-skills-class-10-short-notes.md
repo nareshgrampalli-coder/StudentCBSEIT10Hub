@@ -15,17 +15,34 @@ permalink: /modules/entrepreneurial-skills-class-10-short-notes.html
 ### Board-Paper Q&A Focus
 
 1. **What is entrepreneurship?**
-   The process of identifying an opportunity, arranging resources, starting a venture, and managing it to provide value.
+
+   **Answer:** The process of identifying an opportunity, arranging resources, starting a venture, and managing it to provide value.
+
 2. **What is an entrepreneur?**
-   A person who identifies a need, starts and manages an enterprise, accepts calculated risk, and works for its growth.
+
+   **Answer:** A person who identifies a need, starts and manages an enterprise, accepts calculated risk, and works for its growth.
+
 3. **Are entrepreneurs born or made?**
-   Entrepreneurs are **not necessarily born with fixed qualities**. Entrepreneurial knowledge, creativity, confidence, planning, and risk-management skills can be learned.
+
+   **Answer:** Entrepreneurs are **not necessarily born with fixed qualities**.
+
+   Entrepreneurial knowledge, creativity, confidence, planning, and risk-management skills can be learned through practice and experience.
+
 4. **Which statement is a myth about entrepreneurs?**
-   Statements such as “they always need large capital,” “they cannot fail,” “a good idea alone guarantees success,” or “they are born and cannot be trained” are myths.
+
+   **Answer:** Claims such as “they always need large capital,” “they cannot fail,” “a good idea alone guarantees success,” or “they are born and cannot be trained” are myths.
+
 5. **What is the most useful starting point for a business?**
-   Identifying and understanding a genuine **customer need** or problem.
+
+   **Answer:** Identifying and understanding a genuine **customer need** or problem.
+
+   **Example:** A simple local repair service begins from customers' need for quick, affordable device repairs.
+
 6. **What should an entrepreneur do in a competitive market?**
-   Study customers and competitors, improve quality and service, innovate, control costs, and communicate clearly rather than copying blindly.
+
+   **Answer:** Study customers and competitors, improve quality and service, innovate, control costs, and communicate clearly rather than copying blindly.
+
+> **Memory tip — NEED:** **N**otice a problem, **E**xamine customers, **E**stimate resources and risk, **D**evelop and improve the solution.
 
 ![Entrepreneurship cycle from customer need to feedback and business growth](../assets/short-notes/entrepreneurship-cycle.svg)
 

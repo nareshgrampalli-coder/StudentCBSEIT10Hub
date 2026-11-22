@@ -14,20 +14,55 @@ Communication is the purposeful exchange of ideas, information, feelings, or ins
 
 ### Board-Paper Q&A Focus
 
+Use each answer to understand **why the concept is important**, and then connect it with the example below.
+
 1. **Which element completes the communication cycle?**
-   **Feedback:** The receiver's response allows the sender to check whether the message was understood correctly.
+
+   **Answer:** **Feedback** completes the cycle.
+
+   The receiver's reply tells the sender whether the message was understood.
+
+   **Example:** A student repeats a teacher's instruction after listening; the repetition confirms understanding.
+
 2. **How are verbal, visual, and non-verbal communication identified?**
+
+   **Answer:**
+
    - **Verbal:** Spoken or written words.
    - **Visual:** Pictures, signs, charts, graphs, or symbols without relying mainly on spoken words.
    - **Non-verbal:** Facial expressions, gestures, posture, eye contact, appearance, and tone.
+
 3. **What is an imperative sentence?**
-   A sentence that gives an order, instruction, request, or command, such as **“Shut the front door.”**
+
+   **Answer:** A sentence that gives an order, instruction, request, or command.
+
+   **Example:** **“Shut the front door.”**
+
 4. **Which barrier is shown by noise, weak network, or buffering?**
-   A **physical communication barrier**. Move to a quieter place, improve the network, or choose another channel.
+
+   **Answer:** A **physical communication barrier**.
+
+   These problems interrupt the channel through which the message travels. Move to a quieter place, improve the network, or use another channel.
+
 5. **What is the best way to communicate one announcement to an entire class?**
-   Use a suitable **mass method**, such as a notice, announcement, group email, or display, when everyone must receive the same information.
+
+   **Answer:** Use a suitable **mass-communication method**, such as a notice, announcement, group email, or display.
+
+   **Why:** One message must reach many receivers at the same time and with consistent wording.
+
 6. **What makes feedback useful?**
-   It should be **specific, timely, respectful, descriptive, and focused on improvement**, not personal criticism.
+
+   **Answer:** It should be **specific, timely, respectful, descriptive, and focused on improvement**.
+
+   **Example:** “Add the missing page number in the footer” is more useful than “Your document is poor.”
+
+> **Memory tip — FEEDBACK:** **F**ocus on the task, **E**xplain clearly, **E**nter evidence, **D**escribe improvement, **B**e timely, **A**void personal criticism, **C**heck understanding, **K**eep respect.
+
+```text
+Sender -> Message -> Channel -> Receiver
+   ^                                |
+   +---------- Feedback ------------+
+```
 
 ### Communication cycle
 

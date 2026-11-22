@@ -15,21 +15,42 @@ Self-management is the ability to regulate emotions, behaviour, effort, and time
 ### Board-Paper Q&A Focus
 
 1. **What is self-management?**
-   It is the ability to control one's behaviour, emotions, effort, and time while achieving goals.
+
+   **Answer:** The ability to control one's behaviour, emotions, effort, and time while achieving goals.
+
+   **Example:** A student plans revision, begins at the fixed time, and continues even without external supervision.
+
 2. **What is emotional intelligence or emotional self-awareness?**
-   The ability to identify, understand, regulate, and use one's own emotions and respond suitably to the emotions of others.
+
+   **Answer:** The ability to identify, understand, regulate, and use one's own emotions and respond suitably to the emotions of others.
+
 3. **Why should a big goal be divided into smaller parts?**
-   Smaller parts make the goal more **achievable** because progress can be planned, measured, and reviewed regularly.
+
+   **Answer:** Smaller parts make the goal more **achievable** because progress can be planned, measured, and reviewed regularly.
+
+   **Example:** “Revise the complete DBMS unit” becomes five smaller chapter targets over five days.
+
 4. **What does SMART stand for?**
-   **Specific, Measurable, Achievable, Realistic, and Time-bound.**
+
+   **Answer:** **Specific, Measurable, Achievable, Realistic, and Time-bound.**
+
 5. **What is motivation?**
-   It is the driving force that starts, directs, and maintains effort towards a goal. It may be **internal** or **external**.
+
+   **Answer:** The driving force that starts, directs, and maintains effort towards a goal. It may be **internal** or **external**.
+
+   **Example:** Enjoying coding is internal motivation; studying to earn a prize is external motivation.
+
 6. **Define time management.**
-   Planning and organising available time so that tasks are completed according to priority and deadline.
+
+   **Answer:** Planning and organising available time so that tasks are completed according to priority and deadline.
+
 7. **Give common ways to manage stress.**
-   Divide work into smaller tasks, practise breathing or relaxation, take regular exercise, sleep adequately, maintain a routine, and talk to a trusted person.
+
+   **Answer:** Divide work into smaller tasks, practise breathing or relaxation, take regular exercise, sleep adequately, maintain a routine, and talk to a trusted person.
 
 **Exam cue:** If a situation mentions setting daily targets, rising early, revising regularly, or completing planned work, it usually tests **self-management or time management**.
+
+> **Memory tip — PLAN:** **P**rioritize, **L**ist tasks, **A**llow realistic time, **N**ote progress and adjust.
 
 ![Self-management cycle showing self-awareness, SMART goals, planning, action, and review](../assets/short-notes/self-management.svg)
 

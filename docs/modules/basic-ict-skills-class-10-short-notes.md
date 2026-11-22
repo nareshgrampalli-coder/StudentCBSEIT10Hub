@@ -15,21 +15,46 @@ permalink: /modules/basic-ict-skills-class-10-short-notes.html
 ### Board-Paper Q&A Focus
 
 1. **What separates a filename from its extension?**
-   A **dot (`.`)**. For example, `notes.pdf`.
+
+   **Answer:** A **dot (`.`)** separates them.
+
+   **Example:** In `notes.pdf`, `notes` is the filename and `pdf` is the extension.
+
 2. **What is a folder?**
-   A named location used to organise and store a group of files or other folders.
+
+   **Answer:** A named location used to organise and store files or other folders.
+
 3. **What is computer hardware?**
-   The physical parts of a computer, such as a monitor, keyboard, CPU, printer, or hard disk. Software is a set of instructions.
+
+   **Answer:** The physical parts of a computer, such as a monitor, keyboard, CPU, printer, or hard disk.
+
+   **Contrast:** Software is a set of instructions; hardware is the equipment that executes or stores it.
+
 4. **Where is a project stored permanently in a computer system?**
-   On a **secondary-storage device**, such as a hard disk or SSD—not in RAM or the CPU.
+
+   **Answer:** On a **secondary-storage device**, such as a hard disk or SSD.
+
+   RAM loses its content when power is removed, while a hard disk or SSD retains data.
+
 5. **What should a strong password contain?**
-   A long combination of **uppercase and lowercase letters, numbers, and special characters**. It should be unique and not contain an easily guessed name or date.
+
+   **Answer:** A long, unique combination of **uppercase and lowercase letters, numbers, and special characters**.
+
+   Avoid names, dates, repeated passwords, and easily guessed patterns.
+
 6. **How can password and data security be improved?**
-   Use unique passwords, lock the screen, install trusted updates, avoid unknown links, use antivirus protection, and keep backups.
+
+   **Answer:** Use unique passwords, lock the screen, install trusted updates, avoid unknown links, use antivirus protection, and keep backups.
+
 7. **How are copy, move, and rename different?**
+
+   **Answer:**
+
    - **Copy:** Creates another copy and leaves the original.
    - **Move:** Changes the file's location.
    - **Rename:** Changes the file or folder name.
+
+> **Memory tip — LOCK:** **L**ong passwords, **O**nly trusted links, **C**urrent updates, **K**eep backups.
 
 ![Computer system diagram showing input, processing, storage, output, security, and backups](../assets/short-notes/computer-flow.svg)
 

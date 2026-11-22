@@ -12,6 +12,25 @@ permalink: /modules/basic-ict-skills-class-10-short-notes.html
 
 **ICT (Information and Communication Technology)** includes devices, software, networks, and services used to create, store, process, transmit, and exchange information.
 
+### Board-Paper Q&A Focus
+
+1. **What separates a filename from its extension?**
+   A **dot (`.`)**. For example, `notes.pdf`.
+2. **What is a folder?**
+   A named location used to organise and store a group of files or other folders.
+3. **What is computer hardware?**
+   The physical parts of a computer, such as a monitor, keyboard, CPU, printer, or hard disk. Software is a set of instructions.
+4. **Where is a project stored permanently in a computer system?**
+   On a **secondary-storage device**, such as a hard disk or SSD—not in RAM or the CPU.
+5. **What should a strong password contain?**
+   A long combination of **uppercase and lowercase letters, numbers, and special characters**. It should be unique and not contain an easily guessed name or date.
+6. **How can password and data security be improved?**
+   Use unique passwords, lock the screen, install trusted updates, avoid unknown links, use antivirus protection, and keep backups.
+7. **How are copy, move, and rename different?**
+   - **Copy:** Creates another copy and leaves the original.
+   - **Move:** Changes the file's location.
+   - **Rename:** Changes the file or folder name.
+
 ![Computer system diagram showing input, processing, storage, output, security, and backups](../assets/short-notes/computer-flow.svg)
 
 <p align="center"><strong>Figure 3: Input–process–storage–output model of a computer system</strong></p>

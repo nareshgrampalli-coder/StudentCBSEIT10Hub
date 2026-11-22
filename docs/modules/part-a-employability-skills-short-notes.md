@@ -6,7 +6,7 @@ permalink: /modules/part-a-employability-skills-short-notes.html
 
 # **Part A: Employability Skills — Short Notes**
 
-Choose a chapter below to open its concept explanations, diagrams, examples, tables, and memory tips.
+Choose a chapter below to open its textbook concepts and **Board-Paper Q&A Focus**, prepared around definitions, examples, MCQs, and short answers asked in the IT 402 question papers.
 
 | Unit | Chapter | Short Notes |
 |---|---|---|

@@ -12,6 +12,21 @@ permalink: /modules/green-skills-class-10-short-notes.html
 
 **Sustainable development** meets current human needs without damaging the ability of future generations to meet theirs.
 
+### Board-Paper Q&A Focus
+
+1. **Define sustainable development.**
+   Development that meets present needs without reducing the ability of future generations to meet their needs.
+2. **How many Sustainable Development Goals were adopted in 2015?**
+   The United Nations adopted **17 SDGs**.
+3. **What is not an SDG?**
+   **Population** is not an SDG. Examples of actual goals include **No Poverty, Quality Education, Climate Action,** and **Reduced Inequalities**.
+4. **What does SDG 13 address?**
+   **Climate Action:** Taking urgent action to combat climate change and its impacts.
+5. **Which action shows responsibility towards sustainable development?**
+   Conserving water and energy, reducing waste, reusing materials, separating recyclables, planting trees, and using cleaner transport.
+6. **Which habit helps reduce plastic waste?**
+   Carry reusable bags and bottles, refuse unnecessary single-use plastic, and choose products with reusable or recyclable packaging.
+
 ![Sustainability diagram balancing environment, society, and economy with the waste hierarchy](../assets/short-notes/sustainability.svg)
 
 <p align="center"><strong>Figure 5: Sustainability balance and preferred waste hierarchy</strong></p>

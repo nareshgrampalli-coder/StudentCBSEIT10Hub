@@ -12,6 +12,25 @@ permalink: /modules/maintain-healthy-safe-secure-working-environment-class-10-sh
 
 A healthy workplace protects people, equipment, data, and the surrounding environment. Safety requires both formal rules and careful daily behaviour.
 
+### Board-Paper Q&A Focus
+
+1. **Give two basic fire-prevention measures.**
+   Keep flammable materials away from heat, avoid overloaded sockets, switch off unused electrical equipment safely, maintain alarms/extinguishers, and keep exits clear.
+2. **What should an employee do in an emergency?**
+   Raise the alarm, warn others, follow the marked route to the assembly point, contact emergency services, and follow instructions. Do not use lifts during a fire or return until clearance is given.
+3. **How can workplace stress be reduced?**
+   Prioritize and divide tasks, take reasonable breaks, maintain good sleep and exercise, communicate workload concerns, and seek trusted or professional support.
+4. **How do poor posture and screen glare affect health?**
+   They may cause eye strain, headache, neck/back pain, muscle strain, and reduced concentration. Adjust screen and chair position, reduce glare, keep wrists neutral, and take short regular breaks.
+5. **What are examples of workplace hazards?**
+   Damaged electrical leads, trailing cables, wet floors, noise, poor lighting, awkward posture, chemicals, weak access security, and blocked exits.
+6. **How should a spill or unsafe condition be handled?**
+   Warn people, isolate the area when safe, use the approved cleaning or reporting procedure, and notify the responsible person. Never ignore a hazard.
+7. **What makes a healthy lifestyle?**
+   Balanced food, adequate sleep, regular physical activity, sufficient water, good hygiene, healthy posture, managed stress, and avoidance of harmful habits.
+
+**Exam cue:** For a workplace situation, state the **hazard**, the **immediate safe action**, and one **preventive measure**.
+
 ![Workplace safety cycle, ergonomic workstation, and emergency response](../assets/short-notes/workplace-safety.svg)
 
 <p align="center"><strong>Figure 4: Hazard-control cycle, ergonomic workstation, and emergency response</strong></p>

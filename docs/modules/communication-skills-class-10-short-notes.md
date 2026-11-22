@@ -12,6 +12,23 @@ permalink: /modules/communication-skills-class-10-short-notes.html
 
 Communication is the purposeful exchange of ideas, information, feelings, or instructions. Effective communication occurs when the receiver interprets the message in the way intended by the sender.
 
+### Board-Paper Q&A Focus
+
+1. **Which element completes the communication cycle?**
+   **Feedback:** The receiver's response allows the sender to check whether the message was understood correctly.
+2. **How are verbal, visual, and non-verbal communication identified?**
+   - **Verbal:** Spoken or written words.
+   - **Visual:** Pictures, signs, charts, graphs, or symbols without relying mainly on spoken words.
+   - **Non-verbal:** Facial expressions, gestures, posture, eye contact, appearance, and tone.
+3. **What is an imperative sentence?**
+   A sentence that gives an order, instruction, request, or command, such as **“Shut the front door.”**
+4. **Which barrier is shown by noise, weak network, or buffering?**
+   A **physical communication barrier**. Move to a quieter place, improve the network, or choose another channel.
+5. **What is the best way to communicate one announcement to an entire class?**
+   Use a suitable **mass method**, such as a notice, announcement, group email, or display, when everyone must receive the same information.
+6. **What makes feedback useful?**
+   It should be **specific, timely, respectful, descriptive, and focused on improvement**, not personal criticism.
+
 ### Communication cycle
 
 ![Communication cycle showing sender, encoding, channel, receiver, and feedback](../assets/short-notes/communication-cycle.svg)

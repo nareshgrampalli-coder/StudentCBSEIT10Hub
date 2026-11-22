@@ -12,6 +12,40 @@ permalink: /modules/database-management-system-class-10-short-notes.html
 
 A database stores related data in an organized form. A **DBMS** provides tools to define structures, enter and update data, retrieve information, enforce rules, and protect data.
 
+### Board-Paper Q&A Focus
+
+1. **What is the role of each main database object?**
+   - **Table:** Stores records.
+   - **Query:** Retrieves, filters, sorts, calculates, or modifies data.
+   - **Form:** Provides a user-friendly interface for viewing and entering records.
+   - **Report:** Presents selected or summarized data in a printable layout.
+2. **What is a primary key, candidate key, and alternate key?**
+   A **primary key** uniquely identifies each record. Any field or combination that could do so is a **candidate key**; a candidate key not selected as the primary key is an **alternate key**.
+3. **What is a foreign key?**
+   A field in one table that refers to the primary key of another table, creating a relationship.
+4. **What is referential integrity?**
+   A rule that prevents a foreign-key value from referring to a missing parent record. It avoids records with invalid references.
+5. **What is a one-to-many relationship?**
+   One parent record can relate to many child records, but each child belongs to one parent—for example, one book and its many issue records.
+6. **What do Update Cascade and Delete Cascade do?**
+   **Update Cascade** changes matching foreign keys when the parent key changes. **Delete Cascade** deletes matching child records when the parent record is deleted.
+7. **Which data types are commonly selected in Base?**
+   Use a suitable **numeric** type for age or quantity, **text** for names, **date/time** for dates, **boolean** for yes/no, and a binary image/blob type for photos.
+8. **How are common SQL clauses used?**
+   `SELECT` chooses fields, `FROM` names the table, `WHERE` filters records, and `ORDER BY` sorts results.
+
+```sql
+SELECT StudentName, Marks
+FROM Student
+WHERE Marks >= 50
+ORDER BY Marks DESC;
+```
+
+9. **Why use forms and reports?**
+   A form simplifies data entry and modification. A report produces a formatted, readable, and printable view; a dynamic report changes when its underlying data changes.
+10. **How is the current date and time placed in a report?**
+    Insert **Date and Time** from the report's Insert tools, or the date/time field controls available in the report designer.
+
 ![Relational database model connecting Student and Course tables with database objects](../assets/short-notes/database-model.svg)
 
 <p align="center"><strong>Figure 3: Relational database tables connected by primary and foreign keys</strong></p>

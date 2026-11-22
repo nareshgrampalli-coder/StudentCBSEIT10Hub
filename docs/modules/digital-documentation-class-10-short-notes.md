@@ -12,6 +12,27 @@ permalink: /modules/digital-documentation-class-10-short-notes.html
 
 Digital documentation is the planned creation, editing, formatting, reviewing, and sharing of electronic documents using a word processor such as LibreOffice Writer.
 
+### Board-Paper Q&A Focus
+
+1. **Which tool applies one style to several non-contiguous sections?**
+   Use **Fill Format** from the Styles panel.
+2. **Which style category controls margins, headers, footers, and page layout?**
+   **Page Style**.
+3. **How many heading levels does LibreOffice Writer support?**
+   Writer supports **10 heading levels**.
+4. **What is anchoring?**
+   Anchoring fixes an image or drawing object's reference point to a **page, paragraph, character, or frame**. Do not confuse it with text wrapping.
+5. **Which image tool produces grayscale, black-and-white, or watermark appearance?**
+   **Image Mode**.
+6. **How is a style different from a template?**
+   A **style** stores reusable formatting for content, while a **template** provides a reusable starting document containing layout, styles, text, or placeholders.
+7. **What produces a contents list from document headings?**
+   Insert a **Table of Contents (TOC)** after applying real heading styles. Update the TOC after the headings change.
+8. **What is mail merge?**
+   It combines one main document with a data source to create personalized copies. It saves repeated typing and reduces copying errors.
+9. **How are documents reviewed?**
+   Use **Track Changes**, comments, and **Accept/Reject**. Track Changes records who changed the document; comments do not directly change the content.
+
 ![Digital documentation workflow from planning to publishing with style-based structure](../assets/short-notes/document-workflow.svg)
 
 <p align="center"><strong>Figure 1: Digital documentation workflow and heading hierarchy</strong></p>

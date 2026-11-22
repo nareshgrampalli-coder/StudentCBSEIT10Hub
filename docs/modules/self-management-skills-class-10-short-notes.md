@@ -12,6 +12,25 @@ permalink: /modules/self-management-skills-class-10-short-notes.html
 
 Self-management is the ability to regulate emotions, behaviour, effort, and time while working towards personal and professional goals.
 
+### Board-Paper Q&A Focus
+
+1. **What is self-management?**
+   It is the ability to control one's behaviour, emotions, effort, and time while achieving goals.
+2. **What is emotional intelligence or emotional self-awareness?**
+   The ability to identify, understand, regulate, and use one's own emotions and respond suitably to the emotions of others.
+3. **Why should a big goal be divided into smaller parts?**
+   Smaller parts make the goal more **achievable** because progress can be planned, measured, and reviewed regularly.
+4. **What does SMART stand for?**
+   **Specific, Measurable, Achievable, Realistic, and Time-bound.**
+5. **What is motivation?**
+   It is the driving force that starts, directs, and maintains effort towards a goal. It may be **internal** or **external**.
+6. **Define time management.**
+   Planning and organising available time so that tasks are completed according to priority and deadline.
+7. **Give common ways to manage stress.**
+   Divide work into smaller tasks, practise breathing or relaxation, take regular exercise, sleep adequately, maintain a routine, and talk to a trusted person.
+
+**Exam cue:** If a situation mentions setting daily targets, rising early, revising regularly, or completing planned work, it usually tests **self-management or time management**.
+
 ![Self-management cycle showing self-awareness, SMART goals, planning, action, and review](../assets/short-notes/self-management.svg)
 
 <p align="center"><strong>Figure 2: Self-management improvement cycle</strong></p>

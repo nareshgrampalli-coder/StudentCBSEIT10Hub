@@ -12,6 +12,25 @@ permalink: /modules/electronic-spreadsheet-class-10-short-notes.html
 
 A spreadsheet organizes data in cells and supports calculations, analysis, decision-making, and charts.
 
+### Board-Paper Q&A Focus
+
+1. **Which feature tests different sets of input values?**
+   **What-if Scenarios** or the **Scenario Manager**. Each scenario stores a set of input values for comparison.
+2. **When should Goal Seek be used, and when should Solver be used?**
+   Use **Goal Seek** for one changing input that must produce a target result. Use **Solver** when several changing cells, constraints, and an objective must be handled together.
+3. **How is a macro recorded in LibreOffice Calc?**
+   Use **Tools → Macros → Record Macro**. A macro automates repeated steps and should be run only from trusted sources.
+4. **What is the default Consolidate function?**
+   **Sum**. Choose **Data → Consolidate** to combine compatible ranges, and enable **Link to Source Data** when later source changes must update the result.
+5. **Which feature identifies who modified shared spreadsheet content?**
+   **Track Changes**, followed by Accept or Reject during review.
+6. **What is an absolute hyperlink?**
+   A link that stores the complete path or URL. A **relative hyperlink** stores a path relative to the current document.
+7. **How are sorting and filtering different?**
+   **Sorting** rearranges records by a value; **filtering** temporarily displays only records that meet a condition.
+8. **Why are spreadsheet hyperlinks created?**
+   To jump to another cell or sheet, open a file, open a web or email address, or quickly access a summary stored elsewhere.
+
 ![Spreadsheet analysis flow from regional data through consolidation and tools to a decision](../assets/short-notes/spreadsheet-analysis.svg)
 
 <p align="center"><strong>Figure 2: Spreadsheet data-to-decision workflow</strong></p>

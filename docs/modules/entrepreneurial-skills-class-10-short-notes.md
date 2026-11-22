@@ -12,6 +12,21 @@ permalink: /modules/entrepreneurial-skills-class-10-short-notes.html
 
 **Entrepreneurship** is the process of identifying an opportunity, organizing resources, developing a solution, accepting reasonable risk, and operating an enterprise.
 
+### Board-Paper Q&A Focus
+
+1. **What is entrepreneurship?**
+   The process of identifying an opportunity, arranging resources, starting a venture, and managing it to provide value.
+2. **What is an entrepreneur?**
+   A person who identifies a need, starts and manages an enterprise, accepts calculated risk, and works for its growth.
+3. **Are entrepreneurs born or made?**
+   Entrepreneurs are **not necessarily born with fixed qualities**. Entrepreneurial knowledge, creativity, confidence, planning, and risk-management skills can be learned.
+4. **Which statement is a myth about entrepreneurs?**
+   Statements such as “they always need large capital,” “they cannot fail,” “a good idea alone guarantees success,” or “they are born and cannot be trained” are myths.
+5. **What is the most useful starting point for a business?**
+   Identifying and understanding a genuine **customer need** or problem.
+6. **What should an entrepreneur do in a competitive market?**
+   Study customers and competitors, improve quality and service, innovate, control costs, and communicate clearly rather than copying blindly.
+
 ![Entrepreneurship cycle from customer need to feedback and business growth](../assets/short-notes/entrepreneurship-cycle.svg)
 
 <p align="center"><strong>Figure 4: Entrepreneurship cycle — from customer need to enterprise growth</strong></p>
